@@ -1,0 +1,4406 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: iMaginem Blocks II\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 14:02+0530\n"
+"PO-Revision-Date: 2021-02-18 13:57+0530\n"
+"Last-Translator: imaginem <imagine.themes@gmail.com>\n"
+"Language-Team: imaginem\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_attr__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: custom-posts/class-imaginem-event-posts.php:49
+msgid "Sort Events"
+msgstr ""
+
+#: custom-posts/class-imaginem-event-posts.php:51
+#: custom-posts/class-imaginem-fullscreen-posts.php:42
+#: custom-posts/class-imaginem-portfolio-posts.php:36
+msgid "Drag and Drop the slides to order them"
+msgstr ""
+
+#: custom-posts/class-imaginem-event-posts.php:88
+#: custom-posts/class-imaginem-event-posts.php:175
+msgid "Section"
+msgstr ""
+
+#: custom-posts/class-imaginem-event-posts.php:89
+#: custom-posts/class-imaginem-fullscreen-posts.php:128
+#: custom-posts/class-imaginem-portfolio-posts.php:123
+#: custom-posts/class-imaginem-portfolio-posts.php:245
+#: custom-posts/class-imaginem-proofing-posts.php:87
+#: custom-posts/class-imaginem-proofing-posts.php:250
+msgid "Image"
+msgstr ""
+
+#: custom-posts/class-imaginem-event-posts.php:146
+#: custom-posts/class-imaginem-event-posts.php:148
+#: custom-posts/class-imaginem-event-posts.php:151
+msgid "Event"
+msgstr ""
+
+#: custom-posts/class-imaginem-event-posts.php:147 widgetized/event-list.php:12
+msgid "Events"
+msgstr ""
+
+#: custom-posts/class-imaginem-event-posts.php:149
+msgid "All Events"
+msgstr ""
+
+#: custom-posts/class-imaginem-event-posts.php:173
+#: custom-posts/class-imaginem-event-posts.php:174
+msgid "Sections"
+msgstr ""
+
+#: custom-posts/class-imaginem-event-posts.php:176
+msgid "All Sections"
+msgstr ""
+
+#: custom-posts/class-imaginem-fullscreen-posts.php:40
+msgid "Sort Fullscreen"
+msgstr ""
+
+#: custom-posts/class-imaginem-fullscreen-posts.php:125
+msgid "Featured Title"
+msgstr ""
+
+#: custom-posts/class-imaginem-fullscreen-posts.php:126
+msgid "Categories"
+msgstr ""
+
+#: custom-posts/class-imaginem-fullscreen-posts.php:127
+#: metabox/metaboxes/fullscreen-metaboxes.php:162
+msgid "Fullscreen Type"
+msgstr ""
+
+#: custom-posts/class-imaginem-fullscreen-posts.php:150
+msgid "Fullscreen Pages"
+msgstr ""
+
+#: custom-posts/class-imaginem-fullscreen-posts.php:151
+msgid "Manage your Fullscreen posts"
+msgstr ""
+
+#: custom-posts/class-imaginem-fullscreen-posts.php:152
+msgid "Fullscreen"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:34
+msgid "Sort Portfolio"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:119
+msgid "Portfolio Title"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:120
+#: shortcodes/shortcode-functions.php:278
+#: widgetized/about-me/about-me-widget.php:144
+#: widgetized/portfolio-gallery.php:236 widgets/blog-grid.php:260
+#: widgets/blog-grid.php:261 widgets/blog-parallax.php:138
+#: widgets/blog-parallax.php:139 widgets/events-grid.php:338
+#: widgets/events-grid.php:339 widgets/inline-editing.php:100
+#: widgets/inline-editing.php:102 widgets/portfolio-grid.php:315
+#: widgets/portfolio-grid.php:316 widgets/section-heading.php:222
+#: widgets/section-heading.php:556 widgets/split-headlines.php:98
+#: widgets/testimonials.php:207 widgets/worktype-albums.php:245
+#: widgets/worktype-albums.php:246
+msgid "Description"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:121 widgetized/video.php:13
+msgid "Video"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:122
+#: custom-posts/class-imaginem-portfolio-posts.php:176
+msgid "Types"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:160
+msgid "Portfolio"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:176
+msgid "Work Type"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:181
+msgid "Search Filter Tags"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:182
+msgid "All Filter Tags"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:183
+msgid "Parent Filter Tags"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:184
+msgid "Parent Filter Tags:"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:185
+msgid "Edit Filter Tags"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:186
+msgid "Update Filter Tags"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:187
+msgid "Add New Filter Tags"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:188
+msgid "New Filter Tag"
+msgstr ""
+
+#: custom-posts/class-imaginem-portfolio-posts.php:189
+msgid "Filter Tags"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:86
+#: custom-posts/class-imaginem-proofing-posts.php:171
+msgid "Proofing Category"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:88
+#: custom-posts/class-imaginem-proofing-posts.php:288
+msgid "Client"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:141
+#: custom-posts/class-imaginem-proofing-posts.php:142
+#: custom-posts/class-imaginem-proofing-posts.php:143
+msgid "Photo Proofing"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:144
+msgid "All Proofings"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:145
+msgid "Add New Proofing"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:169
+#: custom-posts/class-imaginem-proofing-posts.php:170
+#: custom-posts/class-imaginem-proofing-posts.php:172
+msgid "Proofing Categories"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:249
+msgid "Client Title"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:282
+#: custom-posts/class-imaginem-proofing-posts.php:283
+#: custom-posts/class-imaginem-proofing-posts.php:284
+msgid "Clients"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:285
+msgid "All Clients"
+msgstr ""
+
+#: custom-posts/class-imaginem-proofing-posts.php:286
+msgid "Add New Client"
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:56
+#: demo-import/class-imaginemcore-demo-importer.php:66
+msgid ""
+"This process will import demo <strong>with WooCommerce</strong> if the "
+"plugin is active.<br/><br/>If the demo import is not successful then it is "
+"likely due to server settings. Let us know through our <a style=\"box-"
+"shadow: none !important;\" target=\"_blank\" href=\"http://support."
+"imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:76
+msgid ""
+"This process will import <strong>Neptune Demo</strong>.<br/><br/>If the demo "
+"import is not successful then it is likely due to server settings. Let us "
+"know through our <a style=\"box-shadow: none !important;\" target=\"_blank\" "
+"href=\"http://support.imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:86
+msgid ""
+"This process will import <strong>Venus Demo</strong>.<br/><br/>If the demo "
+"import is not successful then it is likely due to server settings. Let us "
+"know through our <a style=\"box-shadow: none !important;\" target=\"_blank\" "
+"href=\"http://support.imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:96
+msgid ""
+"This process will import demo <strong>With WooCommerce if active</strong>."
+"<br/><br/>Ensure to activate WooCommerce plugin before import if shop "
+"products are required.<br/><br/>If the demo import is not successful then it "
+"is likely due to server settings. Let us know through our <a style=\"box-"
+"shadow: none !important;\" target=\"_blank\" href=\"http://support."
+"imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:106
+msgid ""
+"This process will import <strong>OnePage Demo</strong>.<br/><br/>If the demo "
+"import is not successful then it is likely due to server settings. Let us "
+"know through our <a style=\"box-shadow: none !important;\" target=\"_blank\" "
+"href=\"https://imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:116
+#: demo-import/class-imaginemcore-demo-importer.php:126
+msgid ""
+"This process will import <strong>Ceres Demo</strong>.<br/><br/>If the demo "
+"import is not successful then it is likely due to server settings. Let us "
+"know through our <a style=\"box-shadow: none !important;\" target=\"_blank\" "
+"href=\"https://imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:136
+msgid ""
+"This process will import <strong>Centauri Demo</strong>.<br/><br/>If the "
+"demo import is not successful then it is likely due to server settings. Let "
+"us know through our <a style=\"box-shadow: none !important;\" target=\"_blank"
+"\" href=\"https://imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:146
+msgid ""
+"This process will import <strong>Centauri Black Demo</strong>.<br/><br/>If "
+"the demo import is not successful then it is likely due to server settings. "
+"Let us know through our <a style=\"box-shadow: none !important;\" target="
+"\"_blank\" href=\"https://imaginemthemes.co/\">Support Forum</a> for us to "
+"help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:156
+msgid ""
+"This process will import <strong>Titan Demo</strong>.<br/><br/>If the demo "
+"import is not successful then it is likely due to server settings. Let us "
+"know through our <a style=\"box-shadow: none !important;\" target=\"_blank\" "
+"href=\"https://imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: demo-import/class-imaginemcore-demo-importer.php:166
+msgid ""
+"This process will import <strong>Titan Dark Demo</strong>.<br/><br/>If the "
+"demo import is not successful then it is likely due to server settings. Let "
+"us know through our <a style=\"box-shadow: none !important;\" target=\"_blank"
+"\" href=\"https://imaginemthemes.co/\">Support Forum</a> for us to help."
+msgstr ""
+
+#: imaginem-blocks.php:55
+msgid ""
+"Elementor Imaginem Blocks is not working because you are using an old "
+"version of Elementor."
+msgstr ""
+
+#: imaginem-blocks.php:56
+msgid "Update Elementor Now"
+msgstr ""
+
+#: imaginem-blocks.php:67
+msgid "Parallax <br/>For non-dynamic background.<br/>Disables Size/Position"
+msgstr ""
+
+#: imaginem-blocks.php:69 imaginem-blocks.php:258
+msgid "Off"
+msgstr ""
+
+#: imaginem-blocks.php:70 imaginem-blocks.php:259
+msgid "On"
+msgstr ""
+
+#: imaginem-blocks.php:129
+msgid "Sidebar"
+msgstr ""
+
+#: imaginem-blocks.php:133 widgets/blog-grid.php:327
+#: widgets/events-grid.php:355 widgets/multi-slider.php:438
+#: widgets/multi-slider.php:478 widgets/portfolio-grid.php:332
+#: widgets/post-heading.php:118 widgets/pricing-services.php:139
+#: widgets/pricing-table.php:139 widgets/proofing-client-info.php:98
+#: widgets/scroll-indicator.php:101 widgets/section-heading.php:148
+#: widgets/service-box.php:206 widgets/team-member.php:173
+#: widgets/thumbnails-grid.php:336
+msgid "Left"
+msgstr ""
+
+#: imaginem-blocks.php:134
+msgid "No Sidebar"
+msgstr ""
+
+#: imaginem-blocks.php:135 widgets/blog-grid.php:335
+#: widgets/events-grid.php:363 widgets/multi-slider.php:440
+#: widgets/multi-slider.php:480 widgets/portfolio-grid.php:340
+#: widgets/post-heading.php:126 widgets/pricing-services.php:138
+#: widgets/pricing-table.php:138 widgets/scroll-indicator.php:103
+#: widgets/section-heading.php:156 widgets/service-box.php:214
+#: widgets/team-member.php:181 widgets/thumbnails-grid.php:344
+msgid "Right"
+msgstr ""
+
+#: imaginem-blocks.php:136
+msgid "Edge to Edge"
+msgstr ""
+
+#: imaginem-blocks.php:241
+msgid "Rellax"
+msgstr ""
+
+#: imaginem-blocks.php:255
+msgid "Enable Rellax"
+msgstr ""
+
+#: imaginem-blocks.php:257
+msgid "Uncheck this switch if you want to disable Rellax."
+msgstr ""
+
+#: imaginem-blocks.php:267
+msgid "Speed"
+msgstr ""
+
+#: includes/theme-gens.php:37
+msgid "Default Menu"
+msgstr ""
+
+#: includes/theme-gens.php:118
+msgid "Customizer Set Slideshow Images"
+msgstr ""
+
+#: includes/theme-gens.php:119
+msgid "Slideshow using Image Attachments"
+msgstr ""
+
+#: includes/theme-gens.php:120
+msgid "none"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:30
+msgid "Client Metabox"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:36
+msgid "Client Settings"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:39
+#: metabox/metaboxes/events-metaboxes.php:195
+#: metabox/metaboxes/events-metaboxes.php:198
+#: metabox/metaboxes/events-metaboxes.php:221
+#: metabox/metaboxes/fullscreen-metaboxes.php:153
+#: metabox/metaboxes/fullscreen-metaboxes.php:578
+#: metabox/metaboxes/fullscreen-metaboxes.php:585
+#: metabox/metaboxes/page-metaboxes.php:76
+#: metabox/metaboxes/page-metaboxes.php:79
+#: metabox/metaboxes/portfolio-metaboxes.php:97
+#: metabox/metaboxes/portfolio-metaboxes.php:100
+#: metabox/metaboxes/portfolio-metaboxes.php:128
+#: metabox/metaboxes/portfolio-metaboxes.php:131
+#: metabox/metaboxes/portfolio-metaboxes.php:135
+#: metabox/metaboxes/post-metaboxes.php:92
+#: metabox/metaboxes/post-metaboxes.php:95
+#: metabox/metaboxes/proofing-metaboxes.php:104
+#: metabox/metaboxes/proofing-metaboxes.php:107
+#: metabox/metaboxes/proofing-metaboxes.php:111
+#: metabox/metaboxes/woocommerce-metaboxes.php:15
+#: metabox/metaboxes/woocommerce-metaboxes.php:18
+#: metabox/metaboxes/woocommerce-metaboxes.php:22
+msgid "Page Settings"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:43
+msgid "Client Notice"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:47
+msgid ""
+"Add a Password to this client page to password protect all proofing "
+"galleries associated with the client."
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:50
+#: widgets/proofing-client-info.php:155
+msgid "Client Name"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:53
+msgid "Client Name."
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:57
+msgid "Description for client"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:60
+msgid "This description is displayed for client."
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:64
+#: metabox/metaboxes/client-metaboxes.php:67
+msgid "Client proofing gallery title"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:71
+#: metabox/metaboxes/fullscreen-metaboxes.php:581
+#: metabox/metaboxes/page-metaboxes.php:83
+#: metabox/metaboxes/post-metaboxes.php:99
+msgid "Header Settings"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:76
+msgid "Background Image for Client Password Page"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:81
+msgid ""
+"Upload or provide full url of background. eg. http://www.domain.com/path/"
+"image.jpg"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:84
+#: metabox/metaboxes/events-metaboxes.php:240
+#: metabox/metaboxes/fullscreen-metaboxes.php:590
+#: metabox/metaboxes/page-metaboxes.php:47
+#: metabox/metaboxes/portfolio-metaboxes.php:154
+#: metabox/metaboxes/post-metaboxes.php:63
+#: metabox/metaboxes/proofing-metaboxes.php:130
+#: metabox/metaboxes/woocommerce-metaboxes.php:27
+msgid "Switch Menu"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:87
+#: metabox/metaboxes/events-metaboxes.php:243
+#: metabox/metaboxes/fullscreen-metaboxes.php:593
+#: metabox/metaboxes/page-metaboxes.php:50
+#: metabox/metaboxes/portfolio-metaboxes.php:157
+#: metabox/metaboxes/post-metaboxes.php:66
+#: metabox/metaboxes/proofing-metaboxes.php:133
+#: metabox/metaboxes/woocommerce-metaboxes.php:30
+msgid "Select a different menu for this page"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:91
+#: metabox/metaboxes/events-metaboxes.php:259
+#: metabox/metaboxes/page-metaboxes.php:54
+#: metabox/metaboxes/portfolio-metaboxes.php:173
+#: metabox/metaboxes/post-metaboxes.php:70
+#: metabox/metaboxes/woocommerce-metaboxes.php:46
+msgid "Instagram Footer"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:95
+#: metabox/metaboxes/events-metaboxes.php:263
+#: metabox/metaboxes/page-metaboxes.php:58
+#: metabox/metaboxes/portfolio-metaboxes.php:177
+#: metabox/metaboxes/post-metaboxes.php:74
+#: metabox/metaboxes/woocommerce-metaboxes.php:50
+msgid "Enable / Disable Instagram Footer"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:97
+#: metabox/metaboxes/client-metaboxes.php:108
+#: metabox/metaboxes/events-metaboxes.php:265
+#: metabox/metaboxes/events-metaboxes.php:276
+#: metabox/metaboxes/fullscreen-metaboxes.php:197
+#: metabox/metaboxes/fullscreen-metaboxes.php:209
+#: metabox/metaboxes/fullscreen-metaboxes.php:238
+#: metabox/metaboxes/fullscreen-metaboxes.php:351
+#: metabox/metaboxes/page-metaboxes.php:60
+#: metabox/metaboxes/page-metaboxes.php:71
+#: metabox/metaboxes/portfolio-metaboxes.php:180
+#: metabox/metaboxes/portfolio-metaboxes.php:190
+#: metabox/metaboxes/post-metaboxes.php:76
+#: metabox/metaboxes/post-metaboxes.php:87
+#: metabox/metaboxes/proofing-metaboxes.php:143
+#: metabox/metaboxes/woocommerce-metaboxes.php:52
+#: metabox/metaboxes/woocommerce-metaboxes.php:63 widgets/multi-slider.php:425
+msgid "Enable"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:98
+#: metabox/metaboxes/client-metaboxes.php:109
+#: metabox/metaboxes/events-metaboxes.php:95
+#: metabox/metaboxes/events-metaboxes.php:266
+#: metabox/metaboxes/events-metaboxes.php:277
+#: metabox/metaboxes/fullscreen-metaboxes.php:198
+#: metabox/metaboxes/fullscreen-metaboxes.php:210
+#: metabox/metaboxes/fullscreen-metaboxes.php:239
+#: metabox/metaboxes/fullscreen-metaboxes.php:352
+#: metabox/metaboxes/page-metaboxes.php:61
+#: metabox/metaboxes/page-metaboxes.php:72
+#: metabox/metaboxes/portfolio-metaboxes.php:179
+#: metabox/metaboxes/portfolio-metaboxes.php:191
+#: metabox/metaboxes/post-metaboxes.php:77
+#: metabox/metaboxes/post-metaboxes.php:88
+#: metabox/metaboxes/proofing-metaboxes.php:144
+#: metabox/metaboxes/woocommerce-metaboxes.php:53
+#: metabox/metaboxes/woocommerce-metaboxes.php:64 widgets/multi-slider.php:424
+msgid "Disable"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:102
+#: metabox/metaboxes/events-metaboxes.php:270
+#: metabox/metaboxes/page-metaboxes.php:65
+#: metabox/metaboxes/portfolio-metaboxes.php:184
+#: metabox/metaboxes/post-metaboxes.php:81
+#: metabox/metaboxes/proofing-metaboxes.php:137
+#: metabox/metaboxes/woocommerce-metaboxes.php:57
+msgid "Footer"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:106
+#: metabox/metaboxes/events-metaboxes.php:274
+#: metabox/metaboxes/page-metaboxes.php:69
+#: metabox/metaboxes/portfolio-metaboxes.php:188
+#: metabox/metaboxes/post-metaboxes.php:85
+#: metabox/metaboxes/proofing-metaboxes.php:141
+#: metabox/metaboxes/woocommerce-metaboxes.php:61
+msgid "Enable / Disable Footer"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:113
+#: metabox/metaboxes/client-metaboxes.php:116
+#: metabox/metaboxes/client-metaboxes.php:120
+#: metabox/metaboxes/events-metaboxes.php:281
+#: metabox/metaboxes/events-metaboxes.php:284
+#: metabox/metaboxes/events-metaboxes.php:288
+#: metabox/metaboxes/page-metaboxes.php:114
+#: metabox/metaboxes/portfolio-metaboxes.php:195
+#: metabox/metaboxes/post-metaboxes.php:130
+#: metabox/metaboxes/proofing-metaboxes.php:160
+#: metabox/metaboxes/woocommerce-metaboxes.php:68
+#: metabox/metaboxes/woocommerce-metaboxes.php:71
+#: metabox/metaboxes/woocommerce-metaboxes.php:75
+msgid "Page Background"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:125
+#: metabox/metaboxes/events-metaboxes.php:226
+#: metabox/metaboxes/page-metaboxes.php:88
+#: metabox/metaboxes/portfolio-metaboxes.php:140
+#: metabox/metaboxes/post-metaboxes.php:104
+#: metabox/metaboxes/proofing-metaboxes.php:116
+msgid "Header Type"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:130
+#: metabox/metaboxes/events-metaboxes.php:231
+#: metabox/metaboxes/page-metaboxes.php:93
+#: metabox/metaboxes/portfolio-metaboxes.php:145
+#: metabox/metaboxes/post-metaboxes.php:109
+#: metabox/metaboxes/proofing-metaboxes.php:121
+msgid "Header Type for Horizontal menu"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:132
+#: metabox/metaboxes/events-metaboxes.php:233
+#: metabox/metaboxes/events-metaboxes.php:253
+#: metabox/metaboxes/page-metaboxes.php:95
+#: metabox/metaboxes/page-metaboxes.php:108
+#: metabox/metaboxes/portfolio-metaboxes.php:147
+#: metabox/metaboxes/portfolio-metaboxes.php:167
+#: metabox/metaboxes/post-metaboxes.php:111
+#: metabox/metaboxes/post-metaboxes.php:124
+#: metabox/metaboxes/proofing-metaboxes.php:123
+#: metabox/metaboxes/proofing-metaboxes.php:154
+#: metabox/metaboxes/woocommerce-metaboxes.php:40 widgets/blog-grid.php:186
+#: widgets/blog-grid.php:219 widgets/blog-list.php:115
+#: widgets/contactform.php:189 widgets/contactform.php:218
+#: widgets/events-grid.php:219 widgets/google-map.php:268
+#: widgets/image-carousel.php:306 widgets/image-reel.php:175
+#: widgets/image-reel.php:190 widgets/multi-slider.php:265
+#: widgets/multi-slider.php:294 widgets/portfolio-grid.php:203
+#: widgets/portfolio-grid.php:217 widgets/portfolio-grid.php:262
+#: widgets/post-heading.php:102 widgets/proofing-archive.php:191
+#: widgets/proofing-grid.php:159 widgets/section-heading.php:102
+#: widgets/section-heading.php:117 widgets/section-heading.php:132
+#: widgets/service-box.php:132 widgets/slideshow-carousel.php:316
+#: widgets/swiper-slides.php:263 widgets/thumbnails-grid.php:172
+#: widgets/thumbnails-grid.php:220 widgets/thumbnails-grid.php:263
+#: widgets/works-carousel.php:339 widgets/worktype-albums.php:158
+msgid "Default"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:133
+#: metabox/metaboxes/events-metaboxes.php:234
+#: metabox/metaboxes/page-metaboxes.php:96
+#: metabox/metaboxes/portfolio-metaboxes.php:148
+#: metabox/metaboxes/post-metaboxes.php:112
+#: metabox/metaboxes/proofing-metaboxes.php:124
+msgid "Inverse Opaque"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:134
+#: metabox/metaboxes/events-metaboxes.php:235
+#: metabox/metaboxes/page-metaboxes.php:97
+#: metabox/metaboxes/portfolio-metaboxes.php:149
+#: metabox/metaboxes/post-metaboxes.php:113
+#: metabox/metaboxes/proofing-metaboxes.php:125
+msgid "Overlay"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:135
+#: metabox/metaboxes/events-metaboxes.php:236
+#: metabox/metaboxes/page-metaboxes.php:98
+#: metabox/metaboxes/portfolio-metaboxes.php:150
+#: metabox/metaboxes/post-metaboxes.php:114
+#: metabox/metaboxes/proofing-metaboxes.php:126
+msgid "Inverse Overlay"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:139
+#: metabox/metaboxes/events-metaboxes.php:293
+#: metabox/metaboxes/page-metaboxes.php:119
+#: metabox/metaboxes/portfolio-metaboxes.php:200
+#: metabox/metaboxes/post-metaboxes.php:135
+#: metabox/metaboxes/proofing-metaboxes.php:165
+#: metabox/metaboxes/woocommerce-metaboxes.php:80
+msgid "Page Color"
+msgstr ""
+
+#: metabox/metaboxes/client-metaboxes.php:142
+#: metabox/metaboxes/events-metaboxes.php:296
+#: metabox/metaboxes/page-metaboxes.php:122
+#: metabox/metaboxes/portfolio-metaboxes.php:203
+#: metabox/metaboxes/post-metaboxes.php:138
+#: metabox/metaboxes/proofing-metaboxes.php:168
+#: metabox/metaboxes/woocommerce-metaboxes.php:83
+msgid "Page color"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:29
+msgid "Events Metabox"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:35
+msgid "Event Settings"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:38
+msgid "Events Settings"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:42
+msgid "Event Options"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:47
+msgid "Gallery description text"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:51
+msgid "Description text to displayed with evernts gallery thumbnail"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:55
+#: metabox/metaboxes/events-metaboxes.php:59
+msgid "Event Status"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:61 widgets/proofing-grid.php:116
+msgid "Active"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:62
+msgid "Hide from Listings"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:63
+msgid "Display as Postponed"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:64
+msgid "Display as Cancelled"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:65
+msgid "Event is Full"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:66
+msgid "Past Event"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:70
+msgid "Event Date"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:75
+#: metabox/metaboxes/proofing-metaboxes.php:92
+msgid "Start date"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:84
+msgid "End date"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:88
+#: metabox/metaboxes/events-metaboxes.php:92
+msgid "Display date in Events Grid"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:94
+#: metabox/metaboxes/events-metaboxes.php:254
+#: metabox/metaboxes/page-metaboxes.php:109
+#: metabox/metaboxes/portfolio-metaboxes.php:168
+#: metabox/metaboxes/post-metaboxes.php:125
+#: metabox/metaboxes/proofing-metaboxes.php:155
+#: metabox/metaboxes/woocommerce-metaboxes.php:41 widgets/image-reel.php:204
+#: widgets/image-reel.php:251 widgets/like-status.php:101
+#: widgets/multi-slider.php:308 widgets/multi-slider.php:355
+#: widgets/progress-bar.php:129 widgets/share-page.php:110
+#: widgets/share-page.php:121 widgets/share-page.php:132
+#: widgets/share-page.php:143 widgets/share-page.php:154
+#: widgets/share-page.php:165 widgets/share-page.php:176
+#: widgets/share-page.php:187
+msgid "Show"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:99
+msgid "Venue"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:103
+msgid "Venue Name"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:111
+msgid "Street"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:120
+msgid "State"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:129
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:137
+msgid "Event country"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:146
+msgid "Phone"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:155
+msgid "Website"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:164
+msgid "Cost Currency Symbol"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:173
+msgid "Cost Value"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:182
+msgid "Capcity ( Audience limit )"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:191
+msgid "Capacity remaining"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:202
+#: metabox/metaboxes/page-metaboxes.php:28
+#: metabox/metaboxes/portfolio-metaboxes.php:109
+#: metabox/metaboxes/post-metaboxes.php:44
+#: metabox/metaboxes/proofing-metaboxes.php:67
+msgid "Page Style"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:206
+#: metabox/metaboxes/page-metaboxes.php:32
+#: metabox/metaboxes/portfolio-metaboxes.php:113
+#: metabox/metaboxes/post-metaboxes.php:48
+#: metabox/metaboxes/proofing-metaboxes.php:71
+msgid "Note: Edge to Edge for Elementor Pagebuilder Layout"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:214
+#: metabox/metaboxes/page-metaboxes.php:40
+#: metabox/metaboxes/portfolio-metaboxes.php:121
+#: metabox/metaboxes/post-metaboxes.php:56
+msgid "Choice of Sidebar"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:217
+#: metabox/metaboxes/page-metaboxes.php:43
+#: metabox/metaboxes/portfolio-metaboxes.php:124
+#: metabox/metaboxes/post-metaboxes.php:59
+msgid "For Sidebar Active Pages and Posts"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:247
+#: metabox/metaboxes/events-metaboxes.php:250
+#: metabox/metaboxes/page-metaboxes.php:102
+#: metabox/metaboxes/page-metaboxes.php:105
+#: metabox/metaboxes/portfolio-metaboxes.php:161
+#: metabox/metaboxes/portfolio-metaboxes.php:164
+#: metabox/metaboxes/post-metaboxes.php:118
+#: metabox/metaboxes/post-metaboxes.php:121
+#: metabox/metaboxes/proofing-metaboxes.php:148
+#: metabox/metaboxes/proofing-metaboxes.php:151
+#: metabox/metaboxes/woocommerce-metaboxes.php:34
+#: metabox/metaboxes/woocommerce-metaboxes.php:37
+#: widgets/proofing-client-info.php:142
+msgid "Page Title"
+msgstr ""
+
+#: metabox/metaboxes/events-metaboxes.php:255
+#: metabox/metaboxes/page-metaboxes.php:110
+#: metabox/metaboxes/portfolio-metaboxes.php:169
+#: metabox/metaboxes/post-metaboxes.php:126
+#: metabox/metaboxes/proofing-metaboxes.php:156
+#: metabox/metaboxes/woocommerce-metaboxes.php:42 widgets/image-reel.php:205
+#: widgets/image-reel.php:252 widgets/like-status.php:102
+#: widgets/multi-slider.php:309 widgets/multi-slider.php:356
+#: widgets/progress-bar.php:130 widgets/share-page.php:111
+#: widgets/share-page.php:122 widgets/share-page.php:133
+#: widgets/share-page.php:144 widgets/share-page.php:155
+#: widgets/share-page.php:166 widgets/share-page.php:177
+#: widgets/share-page.php:188
+msgid "Hide"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:11
+msgid "Button Link URL"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:16
+msgid "Button link Target"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:24
+#: widgetized/about-me/about-me-widget.php:147 widgets/flip-box.php:219
+#: widgets/flip-box.php:391 widgets/pricing-services.php:196
+#: widgets/pricing-services.php:513 widgets/pricing-table.php:196
+#: widgets/pricing-table.php:578 widgets/proofing-grid.php:256
+#: widgets/proofing-grid.php:536 widgets/section-heading.php:279
+#: widgets/section-heading.php:281 widgets/section-heading.php:561
+msgid "Button Text"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:27
+msgid "Fullscreen Slideshow, Swiper Slide and Thumbnail Gallery"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:31
+msgid "Purchase URL"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:36
+msgid "Purchase link Target"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:43
+msgid "Header UI"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:50
+msgid "Title color "
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:144
+msgid "Fullscreen Metabox"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:150
+msgid "Fullscreen Settings"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:157
+msgid "Fullscreen Options"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:168
+msgid "Fullscreen page type"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:183
+#: widgets/image-carousel.php:136 widgets/image-reel.php:135
+#: widgets/multi-slider.php:136 widgets/slideshow-carousel.php:136
+#: widgets/swiper-slides.php:136 widgets/thumbnails-grid.php:112
+#: widgets/vertical-images.php:104
+msgid "Add Images"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:185
+#: metabox/metaboxes/post-metaboxes.php:34
+#: metabox/metaboxes/proofing-metaboxes.php:55
+msgid "Upload Images"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:187
+msgid "Add images from Media Uploader or by uploading new images."
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:190
+msgid "Carousel Title"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:195
+#: widgets/works-carousel.php:254
+msgid "Display title"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:202
+msgid "Carousel Description"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:207
+msgid "Display description"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:214
+msgid "Carousel caption background color"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:218
+msgid "Background color"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:222
+msgid "Carousel caption background opacity percent"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:228
+msgid "1 to 100 . Type \"transparent\" for none"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:231
+msgid "Display Titles & Description"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:236
+msgid "Display title and description"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:243
+msgid "Slideshow Fill/Fit"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:248
+#: metabox/metaboxes/fullscreen-metaboxes.php:262
+msgid "Transition type for fullscreen slideshow"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:250 widgets/multi-slider.php:166
+msgid "Cover"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:251
+msgid "Landscape Fit"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:252
+msgid "Portrait Fit"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:253
+msgid "Fit Always"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:257
+msgid "Slideshow Transition"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:264 widgets/multi-slider.php:250
+msgid "Fade"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:265
+msgid "Wave"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:266 widgets/blog-grid.php:190
+#: widgets/events-grid.php:223 widgets/portfolio-grid.php:221
+#: widgets/proofing-archive.php:195 widgets/proofing-grid.php:163
+#: widgets/thumbnails-grid.php:176 widgets/worktype-albums.php:162
+msgid "Zoom"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:270
+msgid "Swiper Columns"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:275
+msgid "Swiper Columns type"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:283
+msgid "Portfolio Worktypes ( enter comma seperated slugs )"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:289
+msgid "Enter comma seperated slugs. Leave Blank to list all."
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:292
+msgid "Particle Type"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:297
+msgid "Particle type"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:306
+msgid "Particles / Cover Text Style"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:311
+msgid "Cover Text Style"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:320
+msgid "Coverphoto Text Align"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:325
+msgid "Coverphoto text align"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:327 widgets/blog-grid.php:331
+#: widgets/events-grid.php:359 widgets/multi-slider.php:439
+#: widgets/multi-slider.php:479 widgets/portfolio-grid.php:336
+#: widgets/post-heading.php:122 widgets/scroll-indicator.php:102
+#: widgets/section-heading.php:152 widgets/team-member.php:177
+#: widgets/thumbnails-grid.php:340
+msgid "Center"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:328 widgets/contactform.php:191
+msgid "Bottom"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:332
+#: metabox/metaboxes/fullscreen-metaboxes.php:337
+msgid "Fotorama Fill mode"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:339
+msgid "Fill"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:340 widgets/multi-slider.php:167
+msgid "Fit"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:344
+#: metabox/metaboxes/fullscreen-metaboxes.php:349
+msgid "Fotorama Thumbnails"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:356
+msgid "Revolution Slider"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:360
+msgid "Display Revolution Slider"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:364
+msgid "Fill to activate Static Text"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:370
+msgid "For Kenburns & Static Slideshow Text"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:374
+msgid "Static Title"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:383
+msgid "Static Decription"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:392
+msgid "Static Button Text"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:401
+msgid "Static Button Link"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:405
+msgid "Button Font"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:411
+msgid "Button font"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:415
+#: metabox/metaboxes/fullscreen-metaboxes.php:470
+#: metabox/metaboxes/fullscreen-metaboxes.php:525
+msgid "Slideshow/Static Title Font"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:419
+#: metabox/metaboxes/fullscreen-metaboxes.php:423
+#: metabox/metaboxes/fullscreen-metaboxes.php:431
+msgid "Button color"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:427 widgets/flip-box.php:323
+#: widgets/multi-slider.php:752 widgets/pricing-services.php:418
+#: widgets/pricing-table.php:480 widgets/proofing-grid.php:478
+#: widgets/section-heading.php:395
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:435
+#: metabox/metaboxes/fullscreen-metaboxes.php:483
+#: metabox/metaboxes/fullscreen-metaboxes.php:538
+msgid "Font size"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:439
+#: metabox/metaboxes/fullscreen-metaboxes.php:447
+#: metabox/metaboxes/fullscreen-metaboxes.php:487
+#: metabox/metaboxes/fullscreen-metaboxes.php:495
+#: metabox/metaboxes/fullscreen-metaboxes.php:503
+#: metabox/metaboxes/fullscreen-metaboxes.php:542
+#: metabox/metaboxes/fullscreen-metaboxes.php:550
+#: metabox/metaboxes/fullscreen-metaboxes.php:558
+msgid ""
+"Only Numerical. Enter comma seperated values for responsiveness. Eg. 42,30,16"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:443
+#: metabox/metaboxes/fullscreen-metaboxes.php:499
+#: metabox/metaboxes/fullscreen-metaboxes.php:554
+msgid "Letter-spacing"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:451
+#: metabox/metaboxes/fullscreen-metaboxes.php:507
+#: metabox/metaboxes/fullscreen-metaboxes.php:562
+msgid "Font Weight"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:455
+#: metabox/metaboxes/fullscreen-metaboxes.php:511
+#: metabox/metaboxes/fullscreen-metaboxes.php:566
+#: metabox/metaboxes/fullscreen-metaboxes.php:574
+msgid ""
+"Only Numerical. Enter comma seperated values for responsiveness. Eg. "
+"100,30,16"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:460
+msgid "Title Font"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:466
+msgid "Title font"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:474
+#: metabox/metaboxes/fullscreen-metaboxes.php:478
+msgid "Title color"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:491
+#: metabox/metaboxes/fullscreen-metaboxes.php:546
+msgid "Line-height"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:515
+msgid "Description Font"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:521
+msgid "Description font"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:530
+#: metabox/metaboxes/fullscreen-metaboxes.php:534
+msgid "Description color"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:570 widgets/blog-grid.php:351
+#: widgets/events-grid.php:379 widgets/portfolio-grid.php:356
+#: widgets/post-heading.php:171 widgets/proofing-client-info.php:283
+#: widgets/section-heading.php:249 widgets/thumbnails-grid.php:360
+msgid "Description Width"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:597
+msgid "Page Background color"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:600
+msgid "Page background color"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:604
+msgid "Used as Thumbnail gallery description text"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:608
+msgid "Description to display in thumbnail gallery."
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:616
+msgid "Audio & Video Settings"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:620
+msgid "Media Settings"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:626
+msgid "Slideshow Audio files (optional)"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:630
+msgid "Enter MP3 file path for Slideshow. ( full url )"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:639
+msgid "Enter OGA file path for Slideshow ( full url )"
+msgstr ""
+
+#: metabox/metaboxes/fullscreen-metaboxes.php:648
+msgid "Enter M4A file path for Slideshow ( full url )"
+msgstr ""
+
+#: metabox/metaboxes/page-metaboxes.php:9
+#: metabox/metaboxes/post-metaboxes.php:11 theme-core.php:233
+#: theme-core.php:257
+msgid "General Page Metabox"
+msgstr ""
+
+#: metabox/metaboxes/page-metaboxes.php:15
+#: metabox/metaboxes/page-metaboxes.php:19
+#: metabox/metaboxes/page-metaboxes.php:23
+#: metabox/metaboxes/portfolio-metaboxes.php:104
+#: metabox/metaboxes/post-metaboxes.php:39
+msgid "Page Layout"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:28
+msgid "Portfolio Metabox"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:34
+#: metabox/metaboxes/portfolio-metaboxes.php:37
+msgid "Portfolio Settings"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:41 theme-core.php:249
+msgid "Portfolio Options"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:46
+msgid "Description for gallery thumbnail ( Portfolio Gallery )"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:49
+msgid "This description is displayed below each thumbnail."
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:53
+msgid "Gallery thumbnail options"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:58
+msgid "Gallery thumbnail link type"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:62
+msgid "Link type of portfolio image in portfolio galleries."
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:71
+msgid "Fill for Lightbox Video"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:76
+msgid ""
+"To display a Lightbox Video. Eg: https://www.youtube.com/watch?v=D78TYCEG4 , "
+"https://vimeo.com/172881"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:80
+msgid "Fill for Custom Link"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:85
+msgid "For any link with full url"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:89
+msgid "Custom Thumbnail. (optional)"
+msgstr ""
+
+#: metabox/metaboxes/portfolio-metaboxes.php:93
+msgid "Thumbnail URL."
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:17
+#: metabox/metaboxes/post-metaboxes.php:21
+#: metabox/metaboxes/post-metaboxes.php:25
+msgid "Page Options"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:31
+msgid "Attach Images"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:36
+msgid "Used with Gallery post type to display slideshow."
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:146 theme-core.php:263
+msgid "Video Metabox"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:152
+#: metabox/metaboxes/post-metaboxes.php:155
+msgid "HTML5 Video"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:159
+msgid "M4V File URL"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:163
+msgid "Enter M4V File URL ( Required )"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:166
+msgid "OGV File URL"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:170
+msgid "Enter OGV File URL"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:173
+#: metabox/metaboxes/post-metaboxes.php:178
+msgid "Poster Image"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:181
+#: metabox/metaboxes/post-metaboxes.php:185
+msgid "Video Hosts"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:188
+msgid "Youtube Video ID"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:192
+msgid "Youtube video ID"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:195
+msgid "Vimeo Video ID"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:199
+msgid "Vimeo video ID"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:202
+msgid "Daily Motion Video ID"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:206
+msgid "Daily Motion video ID"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:209
+msgid "Google Video ID"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:213
+msgid "Google video ID"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:216
+msgid "Video Embed Code"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:220
+msgid "Video Embed code. You can grab embed codes from hosted video sites."
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:227 theme-core.php:269
+msgid "Audio Metabox"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:233
+#: metabox/metaboxes/post-metaboxes.php:236
+#: metabox/metaboxes/post-metaboxes.php:240
+msgid "Audio Embed code"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:244
+msgid "eg. Soundcloud embed code"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:247
+#: metabox/metaboxes/post-metaboxes.php:250
+msgid "HTML5 Audio"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:254
+msgid "MP3 file"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:258
+msgid "Please provide full url. eg. http://www.domain.com/path/audiofile.mp3"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:261
+msgid "M4A file"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:265
+msgid ""
+"Please provide full url. eg. <code>http://www.domain.com/path/audiofile.m4a"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:268
+msgid "OGA file"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:272
+msgid "Please provide full url. eg. http://www.domain.com/path/audiofile.ogg"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:279 theme-core.php:275
+msgid "Link Metabox"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:285 widgets/team-member.php:223
+#: widgets/testimonials.php:186
+msgid "Link URL"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:289
+msgid "Please provide full url. eg. http://www.domain.com/path/"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:296 theme-core.php:281
+msgid "Image Metabox"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:302
+#: metabox/metaboxes/post-metaboxes.php:306
+msgid "Enable Lightbox"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:307
+msgid "Disable Lighbox"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:315 theme-core.php:288
+msgid "Quote Metabox"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:321 widgets/testimonials.php:173
+#: wpml/wpml-translation-classes.php:44
+msgid "Quote"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:325
+msgid "Enter quote here"
+msgstr ""
+
+#: metabox/metaboxes/post-metaboxes.php:328
+#: metabox/metaboxes/post-metaboxes.php:332
+msgid "Author"
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:40
+msgid "Proofing Metabox"
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:46
+#: metabox/metaboxes/proofing-metaboxes.php:49
+msgid "Proofing Settings"
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:53
+msgid "Add Proofing Images"
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:57
+msgid "Attach images for proofing."
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:60
+msgid "Proofing: Selected images and filenames"
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:64
+msgid "Use to locate images from a large collection."
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:79
+msgid "Assign a Client"
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:83
+msgid "Note :Select client PhotoProofing is for."
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:87
+msgid "Proofing Date"
+msgstr ""
+
+#: metabox/metaboxes/proofing-metaboxes.php:96
+#: metabox/metaboxes/proofing-metaboxes.php:100
+#: widgets/proofing-client-info.php:195
+msgid "Location"
+msgstr ""
+
+#: metabox/metaboxes/woocommerce-metaboxes.php:9
+msgid "Woocommerce Metabox"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:162
+msgid "selected"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:180
+msgid "No selection found."
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:192 metabox/metaboxgen/metaboxgen.php:195
+#: metabox/metaboxgen/metaboxgen.php:233 metabox/metaboxgen/metaboxgen.php:235
+msgid "Edit Gallery"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:271
+msgid "image"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:274
+msgid "No images found."
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:369 metabox/metaboxgen/metaboxgen.php:381
+#: widgets/blog-grid.php:548 widgets/blog-list.php:240
+#: widgets/events-info.php:338 widgets/flip-box.php:178
+#: widgets/service-box.php:165
+msgid "Size"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:370 metabox/metaboxgen/metaboxgen.php:382
+#: widgets/pricing-services.php:498 widgets/pricing-table.php:563
+msgid "Price"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:372 shortcodes/shortcode-functions.php:322
+msgid "Remove"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:386
+msgid "Add more"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:387
+msgid "Max Reached!"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:446
+msgid "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:464
+msgid "All the items"
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:475
+msgid "Client selected has password protection."
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:477
+msgid "Gallery password protected."
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:481
+msgid "Client selected does not have password protection."
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:483
+msgid "The gallery will be available for everyone."
+msgstr ""
+
+#: metabox/metaboxgen/metaboxgen.php:485
+msgid "Add a password to the Client page to protect the gallery."
+msgstr ""
+
+#: plugin.php:259
+msgid "iMaginem Elements"
+msgstr ""
+
+#: plugin.php:266
+msgid "iMaginem Media"
+msgstr ""
+
+#: plugin.php:273
+msgid "iMaginem Portfolio"
+msgstr ""
+
+#: plugin.php:280
+msgid "iMaginem Proofing"
+msgstr ""
+
+#: shortcodes/blog.php:141 shortcodes/blog.php:859 shortcodes/blog.php:1385
+#: shortcodes/portfolio-blocks.php:3067 shortcodes/slideshow.php:787
+msgid "0 <i class=\"feather-icon-speech-bubble\"></i>"
+msgstr ""
+
+#: shortcodes/blog.php:143 shortcodes/blog.php:861 shortcodes/blog.php:1387
+#: shortcodes/portfolio-blocks.php:3069 shortcodes/slideshow.php:789
+msgid " <i class=\"feather-icon-speech-bubble\"></i>"
+msgstr ""
+
+#: shortcodes/blog.php:145 shortcodes/blog.php:863 shortcodes/blog.php:1389
+#: shortcodes/portfolio-blocks.php:3071 shortcodes/slideshow.php:791
+msgid "1 <i class=\"feather-icon-speech-bubble\"></i>"
+msgstr ""
+
+#: shortcodes/blog.php:1193
+msgid "0 <i class=\"fa fa-comment-alt\"></i>"
+msgstr ""
+
+#: shortcodes/blog.php:1195
+msgid " <i class=\"fa fa-comment-alt\"></i>"
+msgstr ""
+
+#: shortcodes/blog.php:1197
+msgid "1 <i class=\"fa fa-comment-alt\"></i>"
+msgstr ""
+
+#: shortcodes/general.php:458 widgets/service-box.php:210
+msgid "Top"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:88
+msgid "Proofing gallery selection has been locked."
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:89
+msgid "Proofing gallery is active for selection."
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:91
+msgid "Please contact us to activate this proofing gallery."
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:92
+msgid "Proofing gallery Locked for Download."
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:106
+msgid "Download"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:205
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:228
+#: shortcodes/shortcode-functions.php:230
+msgid "Edit Menu Item"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:240
+msgid "URL"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:247
+msgid "Navigation Label"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:253
+msgid "Title Attribute"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:261
+msgid "Open link in a new tab"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:266
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:272
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:280
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:290
+msgid "Mega Menu"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:294
+msgid "2 Columns"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:295
+msgid "3 Columns"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:296
+msgid "4 Columns"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:309
+msgid "Original:"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:326
+msgid "Cancel"
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:1506
+msgid "Page "
+msgstr ""
+
+#: shortcodes/shortcode-functions.php:1506
+msgid " of "
+msgstr ""
+
+#: templater/remote.php:47
+msgid "iMaginem Templates"
+msgstr ""
+
+#: theme-core.php:79
+msgid "Chose menu image"
+msgstr ""
+
+#: theme-core.php:80
+msgid "Select"
+msgstr ""
+
+#: theme-core.php:229
+msgid "Proofing Options"
+msgstr ""
+
+#: theme-core.php:237
+msgid "Client Options"
+msgstr ""
+
+#: theme-core.php:241
+msgid "Events Options"
+msgstr ""
+
+#: theme-core.php:245
+msgid "Featured Options"
+msgstr ""
+
+#: theme-core.php:303
+msgid "WooCommerce Options"
+msgstr ""
+
+#: widgetized/about-me/about-me-widget.php:10
+msgid "Blacksilver About me Widget"
+msgstr ""
+
+#: widgetized/about-me/about-me-widget.php:11
+msgid "Theme widget for About me information"
+msgstr ""
+
+#: widgetized/about-me/about-me-widget.php:137
+#: widgetized/image-upload/image-upload-widget.php:94
+msgid "Upload Image"
+msgstr ""
+
+#: widgetized/about-me/about-me-widget.php:140
+#: wpml/wpml-translation-classes.php:38
+msgid "Name"
+msgstr ""
+
+#: widgetized/about-me/about-me-widget.php:150
+msgid "Button URL"
+msgstr ""
+
+#: widgetized/address.php:5
+msgid "Display your contact details"
+msgstr ""
+
+#: widgetized/address.php:6
+msgid "Blacksilver Address"
+msgstr ""
+
+#: widgetized/address.php:12
+msgid "Address"
+msgstr ""
+
+#: widgetized/address.php:110 widgetized/event-list.php:103
+#: widgetized/event-type.php:60 widgetized/flickr.php:58
+#: widgetized/instagram.php:66 widgetized/popular.php:130
+#: widgetized/portfolio-gallery.php:211
+#: widgetized/portfolio-related-list.php:115 widgetized/portfolio-type.php:60
+#: widgetized/recent.php:124 widgetized/sidebar-gallery.php:348
+#: widgetized/video.php:49
+msgid "Title:"
+msgstr ""
+
+#: widgetized/address.php:113 widgetized/event-list.php:106
+#: widgetized/event-type.php:63 widgetized/portfolio-related-list.php:118
+#: widgetized/portfolio-type.php:63
+msgid "Intro text:"
+msgstr ""
+
+#: widgetized/address.php:116
+msgid "Company:"
+msgstr ""
+
+#: widgetized/address.php:119 widgetized/social.php:314
+msgid "Address:"
+msgstr ""
+
+#: widgetized/address.php:122
+msgid "City:"
+msgstr ""
+
+#: widgetized/address.php:125
+msgid "State:"
+msgstr ""
+
+#: widgetized/address.php:128
+msgid "Zip:"
+msgstr ""
+
+#: widgetized/address.php:131
+msgid "Phone:"
+msgstr ""
+
+#: widgetized/address.php:133
+msgid "Phone Link:"
+msgstr ""
+
+#: widgetized/address.php:136
+msgid "Cell phone:"
+msgstr ""
+
+#: widgetized/address.php:138
+msgid "Cell phone link:"
+msgstr ""
+
+#: widgetized/address.php:141
+msgid "e-mail:"
+msgstr ""
+
+#: widgetized/event-list.php:5
+msgid "Displays list of event posts"
+msgstr ""
+
+#: widgetized/event-list.php:6
+msgid "Blacksilver Events List"
+msgstr ""
+
+#: widgetized/event-list.php:109
+msgid "Limit ( -1 for all ):"
+msgstr ""
+
+#: widgetized/event-type.php:5
+msgid "Display all event work type categories."
+msgstr ""
+
+#: widgetized/event-type.php:6
+msgid "Blacksilver Event Type List"
+msgstr ""
+
+#: widgetized/event-type.php:12
+msgid "Event Categories"
+msgstr ""
+
+#: widgetized/event-type.php:33
+#, php-format
+msgid "View events in %s"
+msgstr ""
+
+#: widgetized/flickr.php:6
+msgid "Displays photos from a Flickr ID"
+msgstr ""
+
+#: widgetized/flickr.php:7
+msgid "Blacksilver Flickr"
+msgstr ""
+
+#: widgetized/flickr.php:12
+msgid "On Flickr"
+msgstr ""
+
+#: widgetized/flickr.php:61
+msgid ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr ""
+
+#: widgetized/flickr.php:64
+msgid "Number of photo to display:"
+msgstr ""
+
+#: widgetized/flickr.php:67
+msgid "Display type:"
+msgstr ""
+
+#: widgetized/flickr.php:69
+msgid "Latest"
+msgstr ""
+
+#: widgetized/flickr.php:70
+msgid "Random"
+msgstr ""
+
+#: widgetized/image-upload/image-upload-widget.php:10
+msgid "blacksilver Image Upload Widget"
+msgstr ""
+
+#: widgetized/image-upload/image-upload-widget.php:11
+msgid "Theme widget to upload image"
+msgstr ""
+
+#: widgetized/image-upload/image-upload-widget.php:80
+msgid "Width"
+msgstr ""
+
+#: widgetized/instagram.php:5
+msgid "Instagram Embed Widget"
+msgstr ""
+
+#: widgetized/instagram.php:7
+msgid "Blacksilver Instagram"
+msgstr ""
+
+#: widgetized/instagram.php:13
+msgid "Instagram"
+msgstr ""
+
+#: widgetized/logo-widget.php:5
+msgid "Logo Widget"
+msgstr ""
+
+#: widgetized/logo-widget.php:6
+msgid "Blacksilver Logo"
+msgstr ""
+
+#: widgetized/popular.php:5
+msgid "Displays the popular posts"
+msgstr ""
+
+#: widgetized/popular.php:6
+msgid "Blacksilver Popular Posts"
+msgstr ""
+
+#: widgetized/popular.php:24
+msgid "Popular Posts"
+msgstr ""
+
+#: widgetized/popular.php:133 widgetized/recent.php:127
+msgid "Posts to Display:"
+msgstr ""
+
+#: widgetized/popular.php:136
+msgid "Description Length:"
+msgstr ""
+
+#: widgetized/popular.php:140 widgetized/recent.php:134
+msgid "Select from Categories:"
+msgstr ""
+
+#: widgetized/portfolio-gallery.php:4 widgetized/sidebar-gallery.php:4
+msgid "Generates an image gallery."
+msgstr ""
+
+#: widgetized/portfolio-gallery.php:5
+msgid "Blacksilver Portfolio Gallery Widget"
+msgstr ""
+
+#: widgetized/portfolio-gallery.php:218 widgetized/sidebar-gallery.php:387
+msgid ""
+"Select Portfolio <br/><small><strong>If List-Choice is Portfolio</strong></"
+"small> :"
+msgstr ""
+
+#: widgetized/portfolio-gallery.php:228 widgetized/sidebar-gallery.php:397
+msgid "Click Action:"
+msgstr ""
+
+#: widgetized/portfolio-gallery.php:242 widgetized/sidebar-gallery.php:408
+msgid "Image Order:"
+msgstr ""
+
+#: widgetized/portfolio-gallery.php:254 widgetized/sidebar-gallery.php:420
+msgid "Limit Portfolio:"
+msgstr ""
+
+#: widgetized/portfolio-related-list.php:5
+msgid "Displays list of related portfolio projects"
+msgstr ""
+
+#: widgetized/portfolio-related-list.php:6
+msgid "Blacksilver Portfolio Related List"
+msgstr ""
+
+#: widgetized/portfolio-related-list.php:12
+msgid "Related Projects"
+msgstr ""
+
+#: widgetized/portfolio-type.php:5
+msgid "Display all portfolio work type categories."
+msgstr ""
+
+#: widgetized/portfolio-type.php:6
+msgid "Blacksilver Portfolio Type List"
+msgstr ""
+
+#: widgetized/portfolio-type.php:12
+msgid "Work Types"
+msgstr ""
+
+#: widgetized/portfolio-type.php:33
+#, php-format
+msgid "View portfolios in %s"
+msgstr ""
+
+#: widgetized/recent.php:5
+msgid "Displays the recent posts"
+msgstr ""
+
+#: widgetized/recent.php:6
+msgid "Blacksilver Recent Posts"
+msgstr ""
+
+#: widgetized/recent.php:24
+msgid "Recent Posts"
+msgstr ""
+
+#: widgetized/recent.php:130
+msgid "Description Lenght:"
+msgstr ""
+
+#: widgetized/sidebar-gallery.php:5
+msgid "Blacksilver Gallery Widget"
+msgstr ""
+
+#: widgetized/sidebar-gallery.php:355
+msgid "List Choice:"
+msgstr ""
+
+#: widgetized/sidebar-gallery.php:367
+msgid ""
+"Select Page <br/><small><strong>If List-Choice is Page</strong></small> :"
+msgstr ""
+
+#: widgetized/sidebar-gallery.php:377
+msgid ""
+"Select Category <br/><small><strong>If List-Choice is Category</strong></"
+"small> :"
+msgstr ""
+
+#: widgetized/social.php:4
+msgid "Generate social links"
+msgstr ""
+
+#: widgetized/social.php:6
+msgid "Blacksilver Social Widget"
+msgstr ""
+
+#: widgetized/social.php:195
+msgid "Follow Us!"
+msgstr ""
+
+#: widgetized/social.php:197
+msgid "Follow Us on"
+msgstr ""
+
+#: widgetized/social.php:290
+msgid "Open in new tab?"
+msgstr ""
+
+#: widgetized/social.php:302
+msgid "Contact text:"
+msgstr ""
+
+#: widgetized/social.php:307
+msgid "Contact text link:"
+msgstr ""
+
+#: widgetized/video.php:5
+msgid "Video Embed Widget"
+msgstr ""
+
+#: widgetized/video.php:7
+msgid "Blacksilver Video"
+msgstr ""
+
+#: widgetized/video.php:52
+msgid "Video Embed Code:"
+msgstr ""
+
+#: widgets/before-after.php:48
+msgid "Before After"
+msgstr ""
+
+#: widgets/before-after.php:112
+msgid "Before After Drops"
+msgstr ""
+
+#: widgets/before-after.php:153 widgets/blog-grid.php:452
+#: widgets/blog-list.php:112 widgets/blog-list.php:165
+#: widgets/blog-parallax.php:201 widgets/contactform.php:134
+#: widgets/events-grid.php:480 widgets/events-swiper.php:191
+#: widgets/flip-box.php:232 widgets/google-map.php:362
+#: widgets/image-carousel.php:249 widgets/image-drops.php:148
+#: widgets/image-reel.php:318 widgets/multi-slider.php:610
+#: widgets/portfolio-grid.php:457 widgets/proofing-archive.php:297
+#: widgets/proofing-client-info.php:94 widgets/proofing-client-info.php:209
+#: widgets/proofing-grid.php:268 widgets/service-box.php:285
+#: widgets/slideshow-carousel.php:259 widgets/swiper-slides.php:206
+#: widgets/team-member.php:255 widgets/testimonials.php:220
+#: widgets/thumbnails-grid.php:421 widgets/vertical-images.php:177
+#: widgets/works-carousel.php:282 widgets/worktype-albums.php:260
+msgid "Style"
+msgstr ""
+
+#: widgets/before-after.php:161
+msgid "Arrow Handle"
+msgstr ""
+
+#: widgets/blog-grid.php:41 widgets/blog-grid.php:104
+msgid "Blog Grid"
+msgstr ""
+
+#: widgets/blog-grid.php:112 widgets/events-grid.php:112
+#: widgets/events-swiper.php:135 widgets/image-carousel.php:163
+#: widgets/multi-slider.php:148 widgets/portfolio-grid.php:112
+#: widgets/proofing-archive.php:112 widgets/proofing-grid.php:126
+#: widgets/swiper-slides.php:148 widgets/works-carousel.php:150
+#: widgets/worktype-albums.php:112
+msgid "Columns"
+msgstr ""
+
+#: widgets/blog-grid.php:115 widgets/events-grid.php:115
+#: widgets/portfolio-grid.php:115 widgets/proofing-archive.php:115
+msgid "5"
+msgstr ""
+
+#: widgets/blog-grid.php:116 widgets/events-grid.php:116
+#: widgets/events-swiper.php:138 widgets/image-carousel.php:166
+#: widgets/multi-slider.php:151 widgets/portfolio-grid.php:116
+#: widgets/proofing-archive.php:116 widgets/proofing-grid.php:129
+#: widgets/swiper-slides.php:151 widgets/works-carousel.php:153
+#: widgets/worktype-albums.php:115
+msgid "4"
+msgstr ""
+
+#: widgets/blog-grid.php:117 widgets/events-grid.php:117
+#: widgets/events-swiper.php:139 widgets/image-carousel.php:167
+#: widgets/multi-slider.php:152 widgets/portfolio-grid.php:117
+#: widgets/proofing-archive.php:117 widgets/proofing-grid.php:130
+#: widgets/swiper-slides.php:152 widgets/works-carousel.php:154
+#: widgets/worktype-albums.php:116
+msgid "3"
+msgstr ""
+
+#: widgets/blog-grid.php:118 widgets/events-grid.php:118
+#: widgets/events-swiper.php:140 widgets/image-carousel.php:168
+#: widgets/multi-slider.php:153 widgets/portfolio-grid.php:118
+#: widgets/proofing-archive.php:118 widgets/proofing-grid.php:131
+#: widgets/swiper-slides.php:153 widgets/works-carousel.php:155
+#: widgets/worktype-albums.php:117
+msgid "2"
+msgstr ""
+
+#: widgets/blog-grid.php:119 widgets/events-grid.php:119
+#: widgets/events-swiper.php:141 widgets/image-carousel.php:169
+#: widgets/multi-slider.php:154 widgets/portfolio-grid.php:119
+#: widgets/proofing-archive.php:119 widgets/proofing-grid.php:132
+#: widgets/swiper-slides.php:154 widgets/works-carousel.php:156
+#: widgets/worktype-albums.php:118
+msgid "1"
+msgstr ""
+
+#: widgets/blog-grid.php:129 widgets/blog-list.php:127
+#: widgets/blog-parallax.php:113 widgets/events-grid.php:144
+#: widgets/events-swiper.php:151
+msgid "Choose categories to list"
+msgstr ""
+
+#: widgets/blog-grid.php:141 widgets/blog-grid.php:142
+#: widgets/events-grid.php:156 widgets/events-grid.php:157
+msgid "Style of Grid"
+msgstr ""
+
+#: widgets/blog-grid.php:144 widgets/events-grid.php:159
+#: widgets/portfolio-grid.php:144 widgets/proofing-archive.php:144
+#: widgets/thumbnails-grid.php:129 widgets/worktype-albums.php:143
+msgid "Classic"
+msgstr ""
+
+#: widgets/blog-grid.php:145 widgets/events-grid.php:160
+#: widgets/portfolio-grid.php:145 widgets/proofing-archive.php:145
+#: widgets/proofing-grid.php:145 widgets/thumbnails-grid.php:130
+#: widgets/worktype-albums.php:144
+msgid "Box Spaced"
+msgstr ""
+
+#: widgets/blog-grid.php:146 widgets/events-grid.php:161
+#: widgets/portfolio-grid.php:146 widgets/proofing-archive.php:146
+#: widgets/proofing-grid.php:146 widgets/thumbnails-grid.php:131
+#: widgets/worktype-albums.php:145
+msgid "Box Grid"
+msgstr ""
+
+#: widgets/blog-grid.php:155 widgets/events-grid.php:170
+#: widgets/portfolio-grid.php:155 widgets/thumbnails-grid.php:140
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/blog-grid.php:167 widgets/events-grid.php:183
+#: widgets/portfolio-grid.php:167 widgets/proofing-archive.php:155
+#: widgets/thumbnails-grid.php:152
+msgid "Gutter Space"
+msgstr ""
+
+#: widgets/blog-grid.php:183 widgets/blog-grid.php:184
+#: widgets/events-grid.php:216 widgets/events-grid.php:217
+#: widgets/portfolio-grid.php:214 widgets/portfolio-grid.php:215
+#: widgets/proofing-archive.php:188 widgets/proofing-archive.php:189
+#: widgets/proofing-grid.php:156 widgets/proofing-grid.php:157
+#: widgets/thumbnails-grid.php:169 widgets/thumbnails-grid.php:170
+#: widgets/worktype-albums.php:155 widgets/worktype-albums.php:156
+msgid "Hover Effect"
+msgstr ""
+
+#: widgets/blog-grid.php:187 widgets/contactform.php:192
+#: widgets/contactform.php:219 widgets/events-grid.php:220
+#: widgets/image-carousel.php:222 widgets/portfolio-grid.php:218
+#: widgets/proofing-archive.php:192 widgets/proofing-grid.php:160
+#: widgets/proofing-grid.php:223 widgets/section-heading.php:134
+#: widgets/thumbnails-grid.php:173 widgets/thumbnails-grid.php:250
+#: widgets/worktype-albums.php:159
+msgid "None"
+msgstr ""
+
+#: widgets/blog-grid.php:188 widgets/events-grid.php:221
+#: widgets/portfolio-grid.php:219 widgets/proofing-archive.php:193
+#: widgets/proofing-grid.php:161 widgets/thumbnails-grid.php:174
+#: widgets/worktype-albums.php:160
+msgid "Tilt"
+msgstr ""
+
+#: widgets/blog-grid.php:189 widgets/events-grid.php:222
+#: widgets/portfolio-grid.php:220 widgets/proofing-archive.php:194
+#: widgets/proofing-grid.php:162 widgets/thumbnails-grid.php:175
+#: widgets/worktype-albums.php:161
+msgid "Blur"
+msgstr ""
+
+#: widgets/blog-grid.php:200 widgets/blog-grid.php:201
+#: widgets/events-grid.php:271 widgets/events-grid.php:272
+#: widgets/portfolio-grid.php:243 widgets/portfolio-grid.php:244
+#: widgets/proofing-archive.php:217 widgets/proofing-archive.php:218
+#: widgets/proofing-grid.php:187 widgets/proofing-grid.php:188
+#: widgets/worktype-albums.php:172 widgets/worktype-albums.php:173
+msgid "Image format"
+msgstr ""
+
+#: widgets/blog-grid.php:203 widgets/events-grid.php:274
+#: widgets/image-carousel.php:152 widgets/portfolio-grid.php:246
+#: widgets/proofing-archive.php:220 widgets/proofing-grid.php:190
+#: widgets/slideshow-carousel.php:168 widgets/thumbnails-grid.php:205
+#: widgets/works-carousel.php:139 widgets/worktype-albums.php:175
+msgid "Landscape"
+msgstr ""
+
+#: widgets/blog-grid.php:204 widgets/events-grid.php:275
+#: widgets/image-carousel.php:308 widgets/portfolio-grid.php:247
+#: widgets/proofing-archive.php:221 widgets/proofing-client-info.php:113
+#: widgets/proofing-grid.php:191 widgets/service-box.php:151
+#: widgets/slideshow-carousel.php:318 widgets/swiper-slides.php:265
+#: widgets/team-member.php:129 widgets/testimonials.php:109
+#: widgets/thumbnails-grid.php:206 widgets/works-carousel.php:140
+#: widgets/works-carousel.php:341 widgets/worktype-albums.php:176
+msgid "Square"
+msgstr ""
+
+#: widgets/blog-grid.php:205 widgets/events-grid.php:276
+#: widgets/image-carousel.php:153 widgets/portfolio-grid.php:248
+#: widgets/proofing-archive.php:222 widgets/proofing-grid.php:192
+#: widgets/slideshow-carousel.php:169 widgets/thumbnails-grid.php:207
+#: widgets/works-carousel.php:141 widgets/worktype-albums.php:177
+msgid "Portrait"
+msgstr ""
+
+#: widgets/blog-grid.php:206 widgets/events-grid.php:277
+#: widgets/portfolio-grid.php:249 widgets/proofing-archive.php:223
+#: widgets/proofing-grid.php:193 widgets/thumbnails-grid.php:208
+#: widgets/worktype-albums.php:178
+msgid "Masonry"
+msgstr ""
+
+#: widgets/blog-grid.php:216 widgets/blog-grid.php:217
+#: widgets/portfolio-grid.php:259 widgets/portfolio-grid.php:260
+#: widgets/thumbnails-grid.php:217 widgets/thumbnails-grid.php:218
+msgid "Image Size"
+msgstr ""
+
+#: widgets/blog-grid.php:220 widgets/portfolio-grid.php:263
+#: widgets/thumbnails-grid.php:221
+msgid "Original"
+msgstr ""
+
+#: widgets/blog-grid.php:233 widgets/blog-grid.php:234
+#: widgets/events-grid.php:299 widgets/events-grid.php:300
+msgid "Display categories"
+msgstr ""
+
+#: widgets/blog-grid.php:236 widgets/blog-grid.php:251
+#: widgets/blog-grid.php:264 widgets/blog-grid.php:277
+#: widgets/blog-grid.php:294 widgets/blog-grid.php:311
+#: widgets/blog-grid.php:440 widgets/blog-list.php:153
+#: widgets/blog-parallax.php:129 widgets/blog-parallax.php:142
+#: widgets/blog-parallax.php:155 widgets/blog-parallax.php:178
+#: widgets/events-grid.php:289 widgets/events-grid.php:302
+#: widgets/events-grid.php:315 widgets/events-grid.php:329
+#: widgets/events-grid.php:342 widgets/events-grid.php:468
+#: widgets/events-info.php:104 widgets/events-info.php:118
+#: widgets/events-info.php:132 widgets/events-info.php:168
+#: widgets/events-info.php:205 widgets/events-info.php:242
+#: widgets/events-info.php:279 widgets/events-info.php:305
+#: widgets/image-carousel.php:183 widgets/image-carousel.php:198
+#: widgets/image-carousel.php:238 widgets/image-carousel.php:261
+#: widgets/image-reel.php:150 widgets/image-reel.php:176
+#: widgets/multi-slider.php:223 widgets/multi-slider.php:267
+#: widgets/multi-slider.php:280 widgets/multi-slider.php:573
+#: widgets/multi-slider.php:586 widgets/multi-slider.php:599
+#: widgets/portfolio-grid.php:279 widgets/portfolio-grid.php:292
+#: widgets/portfolio-grid.php:306 widgets/portfolio-grid.php:319
+#: widgets/portfolio-grid.php:445 widgets/pricing-services.php:113
+#: widgets/pricing-table.php:113 widgets/pricing-table.php:211
+#: widgets/proofing-archive.php:235 widgets/proofing-archive.php:248
+#: widgets/proofing-archive.php:262 widgets/proofing-archive.php:285
+#: widgets/proofing-client-info.php:145 widgets/proofing-client-info.php:158
+#: widgets/proofing-client-info.php:171 widgets/proofing-client-info.php:184
+#: widgets/proofing-client-info.php:198 widgets/proofing-grid.php:207
+#: widgets/slideshow-carousel.php:184 widgets/slideshow-carousel.php:199
+#: widgets/slideshow-carousel.php:233 widgets/slideshow-carousel.php:248
+#: widgets/slideshow-carousel.php:271 widgets/swiper-slides.php:177
+#: widgets/swiper-slides.php:218 widgets/team-member.php:203
+#: widgets/testimonials.php:124 widgets/thumbnails-grid.php:236
+#: widgets/thumbnails-grid.php:310 widgets/thumbnails-grid.php:323
+#: widgets/vertical-images.php:130 widgets/vertical-images.php:143
+#: widgets/vertical-images.php:157 widgets/works-carousel.php:192
+#: widgets/works-carousel.php:207 widgets/works-carousel.php:222
+#: widgets/works-carousel.php:257 widgets/works-carousel.php:271
+#: widgets/works-carousel.php:294 widgets/worktype-albums.php:222
+#: widgets/worktype-albums.php:236 widgets/worktype-albums.php:249
+msgid "No"
+msgstr ""
+
+#: widgets/blog-grid.php:237 widgets/blog-grid.php:250
+#: widgets/blog-grid.php:263 widgets/blog-grid.php:276
+#: widgets/blog-grid.php:293 widgets/blog-grid.php:310
+#: widgets/blog-grid.php:439 widgets/blog-list.php:152
+#: widgets/blog-parallax.php:128 widgets/blog-parallax.php:141
+#: widgets/blog-parallax.php:154 widgets/blog-parallax.php:177
+#: widgets/events-grid.php:290 widgets/events-grid.php:303
+#: widgets/events-grid.php:316 widgets/events-grid.php:328
+#: widgets/events-grid.php:341 widgets/events-grid.php:467
+#: widgets/events-info.php:103 widgets/events-info.php:117
+#: widgets/events-info.php:131 widgets/events-info.php:167
+#: widgets/events-info.php:204 widgets/events-info.php:241
+#: widgets/events-info.php:278 widgets/events-info.php:306
+#: widgets/image-carousel.php:184 widgets/image-carousel.php:199
+#: widgets/image-carousel.php:237 widgets/image-carousel.php:260
+#: widgets/image-reel.php:151 widgets/multi-slider.php:224
+#: widgets/multi-slider.php:281 widgets/multi-slider.php:572
+#: widgets/multi-slider.php:585 widgets/multi-slider.php:598
+#: widgets/portfolio-grid.php:280 widgets/portfolio-grid.php:293
+#: widgets/portfolio-grid.php:305 widgets/portfolio-grid.php:318
+#: widgets/portfolio-grid.php:444 widgets/pricing-services.php:112
+#: widgets/pricing-table.php:112 widgets/pricing-table.php:210
+#: widgets/proofing-archive.php:236 widgets/proofing-archive.php:249
+#: widgets/proofing-archive.php:261 widgets/proofing-archive.php:284
+#: widgets/proofing-client-info.php:144 widgets/proofing-client-info.php:157
+#: widgets/proofing-client-info.php:170 widgets/proofing-client-info.php:183
+#: widgets/proofing-client-info.php:197 widgets/proofing-grid.php:206
+#: widgets/slideshow-carousel.php:185 widgets/slideshow-carousel.php:200
+#: widgets/slideshow-carousel.php:234 widgets/slideshow-carousel.php:247
+#: widgets/slideshow-carousel.php:270 widgets/swiper-slides.php:178
+#: widgets/swiper-slides.php:217 widgets/team-member.php:202
+#: widgets/testimonials.php:125 widgets/thumbnails-grid.php:237
+#: widgets/thumbnails-grid.php:309 widgets/thumbnails-grid.php:322
+#: widgets/vertical-images.php:129 widgets/vertical-images.php:142
+#: widgets/vertical-images.php:156 widgets/works-carousel.php:193
+#: widgets/works-carousel.php:208 widgets/works-carousel.php:223
+#: widgets/works-carousel.php:256 widgets/works-carousel.php:270
+#: widgets/works-carousel.php:293 widgets/worktype-albums.php:221
+#: widgets/worktype-albums.php:235 widgets/worktype-albums.php:248
+msgid "Yes"
+msgstr ""
+
+#: widgets/blog-grid.php:247 widgets/blog-parallax.php:125
+#: widgets/events-grid.php:325 widgets/events-info.php:318
+#: widgets/inline-editing.php:91 widgets/inline-editing.php:93
+#: widgets/like-status.php:115 widgets/portfolio-grid.php:302
+#: widgets/post-heading.php:105 widgets/post-heading.php:190
+#: widgets/pricing-services.php:99 widgets/pricing-services.php:220
+#: widgets/pricing-services.php:488 widgets/pricing-table.php:99
+#: widgets/pricing-table.php:249 widgets/pricing-table.php:553
+#: widgets/progress-bar.php:103 widgets/progress-bar.php:283
+#: widgets/proofing-archive.php:258 widgets/proofing-grid.php:217
+#: widgets/scroll-indicator.php:126 widgets/section-heading.php:184
+#: widgets/section-heading.php:291 widgets/section-heading.php:546
+#: widgets/share-page.php:200 widgets/split-headlines.php:111
+#: widgets/split-headlines.php:188 widgets/worktype-albums.php:232
+#: wpml/wpml-translation-classes.php:35 wpml/wpml-translation-classes.php:108
+msgid "Title"
+msgstr ""
+
+#: widgets/blog-grid.php:248 widgets/blog-grid.php:274
+#: widgets/blog-grid.php:291 widgets/blog-grid.php:308
+#: widgets/blog-parallax.php:126 widgets/events-grid.php:326
+#: widgets/portfolio-grid.php:303 widgets/proofing-archive.php:259
+#: widgets/proofing-grid.php:204 widgets/proofing-grid.php:218
+#: widgets/worktype-albums.php:233
+msgid "title"
+msgstr ""
+
+#: widgets/blog-grid.php:273
+msgid "Display Readmore"
+msgstr ""
+
+#: widgets/blog-grid.php:290
+msgid "Display Comment"
+msgstr ""
+
+#: widgets/blog-grid.php:307 widgets/events-info.php:114
+#: widgets/events-info.php:115
+msgid "Display Date"
+msgstr ""
+
+#: widgets/blog-grid.php:323 widgets/events-grid.php:351
+#: widgets/portfolio-grid.php:328 widgets/post-heading.php:114
+#: widgets/section-heading.php:144 widgets/team-member.php:169
+#: widgets/thumbnails-grid.php:332
+msgid "Alignment"
+msgstr ""
+
+#: widgets/blog-grid.php:383 widgets/events-grid.php:411
+#: widgets/image-carousel.php:392 widgets/portfolio-grid.php:388
+#: widgets/thumbnails-grid.php:377
+msgid "Default text overlay opacity"
+msgstr ""
+
+#: widgets/blog-grid.php:404 widgets/events-grid.php:432
+#: widgets/image-carousel.php:410 widgets/portfolio-grid.php:409
+#: widgets/thumbnails-grid.php:398
+msgid "Hover text overlay opacity"
+msgstr ""
+
+#: widgets/blog-grid.php:427 widgets/blog-list.php:140
+#: widgets/blog-parallax.php:165 widgets/events-grid.php:455
+#: widgets/portfolio-grid.php:432 widgets/proofing-archive.php:272
+#: widgets/works-carousel.php:179
+msgid "Limit. -1 for unlimited"
+msgstr ""
+
+#: widgets/blog-grid.php:428 widgets/blog-list.php:141
+#: widgets/blog-parallax.php:166 widgets/events-grid.php:456
+#: widgets/portfolio-grid.php:433 widgets/proofing-archive.php:273
+#: widgets/works-carousel.php:180
+msgid "Limit items. -1 for unlimited"
+msgstr ""
+
+#: widgets/blog-grid.php:436 widgets/blog-grid.php:437
+#: widgets/blog-list.php:149 widgets/blog-list.php:150
+#: widgets/blog-parallax.php:174 widgets/blog-parallax.php:175
+#: widgets/events-grid.php:464 widgets/events-grid.php:465
+#: widgets/portfolio-grid.php:441 widgets/portfolio-grid.php:442
+#: widgets/proofing-archive.php:281 widgets/proofing-archive.php:282
+msgid "Generate Pagination"
+msgstr ""
+
+#: widgets/blog-grid.php:460 widgets/blog-list.php:173
+#: widgets/blog-parallax.php:235 widgets/events-grid.php:488
+#: widgets/events-info.php:355 widgets/events-swiper.php:215
+#: widgets/flip-box.php:256 widgets/image-carousel.php:350
+#: widgets/multi-slider.php:682 widgets/portfolio-grid.php:465
+#: widgets/post-heading.php:198 widgets/pricing-services.php:260
+#: widgets/pricing-table.php:289 widgets/proofing-archive.php:305
+#: widgets/proofing-client-info.php:217 widgets/proofing-grid.php:276
+#: widgets/section-heading.php:299 widgets/service-box.php:396
+#: widgets/slideshow-carousel.php:360 widgets/swiper-slides.php:307
+#: widgets/team-member.php:311 widgets/testimonials.php:272
+#: widgets/thumbnails-grid.php:429 widgets/vertical-images.php:185
+#: widgets/works-carousel.php:383 widgets/worktype-albums.php:268
+msgid "Title Color"
+msgstr ""
+
+#: widgets/blog-grid.php:473 widgets/blog-list.php:186
+#: widgets/events-grid.php:501 widgets/portfolio-grid.php:478
+#: widgets/proofing-archive.php:318 widgets/worktype-albums.php:281
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/blog-grid.php:485 widgets/blog-list.php:198
+#: widgets/blog-parallax.php:248 widgets/events-grid.php:513
+#: widgets/events-swiper.php:232 widgets/flip-box.php:271
+#: widgets/image-carousel.php:366 widgets/multi-slider.php:698
+#: widgets/portfolio-grid.php:490 widgets/proofing-archive.php:330
+#: widgets/proofing-client-info.php:229 widgets/proofing-grid.php:289
+#: widgets/section-heading.php:413 widgets/service-box.php:413
+#: widgets/slideshow-carousel.php:376 widgets/swiper-slides.php:323
+#: widgets/team-member.php:328 widgets/thumbnails-grid.php:442
+#: widgets/vertical-images.php:198 widgets/works-carousel.php:399
+#: widgets/worktype-albums.php:293
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/blog-grid.php:494 widgets/events-grid.php:522
+#: widgets/events-swiper.php:269 widgets/flip-box.php:281
+#: widgets/multi-slider.php:708 widgets/portfolio-grid.php:499
+#: widgets/post-heading.php:230 widgets/proofing-client-info.php:238
+#: widgets/section-heading.php:356 widgets/service-box.php:449
+#: widgets/team-member.php:338 widgets/thumbnails-grid.php:451
+#: widgets/vertical-images.php:207 widgets/worktype-albums.php:302
+msgid "Description Color"
+msgstr ""
+
+#: widgets/blog-grid.php:506 widgets/blog-list.php:219
+#: widgets/events-grid.php:534 widgets/events-swiper.php:287
+#: widgets/flip-box.php:296 widgets/multi-slider.php:724
+#: widgets/portfolio-grid.php:511 widgets/section-heading.php:431
+#: widgets/service-box.php:475 widgets/team-member.php:354
+#: widgets/thumbnails-grid.php:463 widgets/vertical-images.php:219
+#: widgets/worktype-albums.php:314
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/blog-grid.php:515 widgets/works-carousel.php:409
+msgid "Category Color"
+msgstr ""
+
+#: widgets/blog-grid.php:527 widgets/works-carousel.php:425
+msgid "Category Typography"
+msgstr ""
+
+#: widgets/blog-grid.php:536
+msgid "Date Summary iCon Color"
+msgstr ""
+
+#: widgets/blog-grid.php:564
+msgid "Date Summary Color"
+msgstr ""
+
+#: widgets/blog-grid.php:577
+msgid "Date Summary Typography"
+msgstr ""
+
+#: widgets/blog-grid.php:586 widgets/events-grid.php:564
+#: widgets/portfolio-grid.php:541 widgets/proofing-archive.php:360
+#: widgets/proofing-grid.php:298 widgets/thumbnails-grid.php:472
+#: widgets/worktype-albums.php:323
+msgid "Thumbnail Hover Color"
+msgstr ""
+
+#: widgets/blog-grid.php:599 widgets/events-grid.php:577
+#: widgets/events-info.php:326 widgets/portfolio-grid.php:554
+#: widgets/proofing-archive.php:373 widgets/proofing-grid.php:311
+#: widgets/thumbnails-grid.php:485 widgets/worktype-albums.php:336
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/blog-grid.php:612 widgets/events-grid.php:590
+#: widgets/portfolio-grid.php:567 widgets/proofing-archive.php:386
+#: widgets/proofing-grid.php:324 widgets/thumbnails-grid.php:498
+#: widgets/worktype-albums.php:349
+msgid "Icon Hover Color"
+msgstr ""
+
+#: widgets/blog-grid.php:624 widgets/events-grid.php:603
+#: widgets/portfolio-grid.php:580 widgets/proofing-archive.php:399
+#: widgets/proofing-grid.php:337
+msgid "Icon Background Color"
+msgstr ""
+
+#: widgets/blog-grid.php:637 widgets/events-grid.php:616
+#: widgets/portfolio-grid.php:593 widgets/proofing-archive.php:412
+#: widgets/proofing-grid.php:350 widgets/thumbnails-grid.php:524
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: widgets/blog-grid.php:649 widgets/blog-list.php:280
+#: widgets/blog-parallax.php:299
+msgid "Readmore Color"
+msgstr ""
+
+#: widgets/blog-grid.php:665 widgets/blog-list.php:296
+msgid "Readmore Hover Color"
+msgstr ""
+
+#: widgets/blog-grid.php:681 widgets/blog-list.php:312
+#: widgets/blog-parallax.php:312 widgets/service-box.php:484
+msgid "Readmore Typography"
+msgstr ""
+
+#: widgets/blog-list.php:41 widgets/blog-list.php:104
+msgid "Blog List"
+msgstr ""
+
+#: widgets/blog-list.php:116
+msgid "Small"
+msgstr ""
+
+#: widgets/blog-list.php:207 widgets/blog-parallax.php:257
+#: widgets/pricing-services.php:373 widgets/pricing-table.php:402
+msgid "Content Color"
+msgstr ""
+
+#: widgets/blog-list.php:228
+msgid "iCon Color"
+msgstr ""
+
+#: widgets/blog-list.php:257 widgets/blog-parallax.php:278
+#: widgets/events-swiper.php:242
+msgid "Date Color"
+msgstr ""
+
+#: widgets/blog-list.php:270 widgets/blog-parallax.php:290
+#: widgets/events-swiper.php:259
+msgid "Date Typography"
+msgstr ""
+
+#: widgets/blog-parallax.php:41 widgets/blog-parallax.php:104
+msgid "Blog Parallax"
+msgstr ""
+
+#: widgets/blog-parallax.php:151 widgets/blog-parallax.php:152
+msgid "Date"
+msgstr ""
+
+#: widgets/blog-parallax.php:187
+msgid "height"
+msgstr ""
+
+#: widgets/blog-parallax.php:209
+msgid "Contents Background Color"
+msgstr ""
+
+#: widgets/blog-parallax.php:222
+msgid "Contents Background Hover"
+msgstr ""
+
+#: widgets/blog-parallax.php:269
+msgid "Contents Typography"
+msgstr ""
+
+#: widgets/contactform.php:50
+msgid "Contact 7 Form"
+msgstr ""
+
+#: widgets/contactform.php:98
+msgid "ContactForm"
+msgstr ""
+
+#: widgets/contactform.php:121
+msgid "Select your contact form 7"
+msgstr ""
+
+#: widgets/contactform.php:142
+msgid "Input Fields"
+msgstr ""
+
+#: widgets/contactform.php:154
+msgid "Input Type"
+msgstr ""
+
+#: widgets/contactform.php:164
+msgid "Label Color"
+msgstr ""
+
+#: widgets/contactform.php:176
+msgid "Label Type"
+msgstr ""
+
+#: widgets/contactform.php:186
+msgid "Input Border Style"
+msgstr ""
+
+#: widgets/contactform.php:190 widgets/proofing-client-info.php:111
+msgid "Curved"
+msgstr ""
+
+#: widgets/contactform.php:203
+msgid "Input Border color"
+msgstr ""
+
+#: widgets/contactform.php:215
+msgid "Input icons"
+msgstr ""
+
+#: widgets/contactform.php:230
+msgid "Input icons color "
+msgstr ""
+
+#: widgets/contactform.php:243 widgets/flip-box.php:306
+#: widgets/multi-slider.php:734 widgets/pricing-services.php:400
+#: widgets/pricing-table.php:462 widgets/proofing-grid.php:464
+#: widgets/section-heading.php:375
+msgid "Button Color"
+msgstr ""
+
+#: widgets/contactform.php:262
+msgid "Button Text Color"
+msgstr ""
+
+#: widgets/contactform.php:278
+msgid "Button Hover Color"
+msgstr ""
+
+#: widgets/contactform.php:296
+msgid "Button Hover Text"
+msgstr ""
+
+#: widgets/contactform.php:311 widgets/pricing-services.php:434
+#: widgets/pricing-table.php:496 widgets/section-heading.php:440
+msgid "Button Typography"
+msgstr ""
+
+#: widgets/events-grid.php:41
+msgid "Events Grid"
+msgstr ""
+
+#: widgets/events-grid.php:104
+msgid "Events Gallery"
+msgstr ""
+
+#: widgets/events-grid.php:129
+msgid "Sort"
+msgstr ""
+
+#: widgets/events-grid.php:130
+msgid "Sort order"
+msgstr ""
+
+#: widgets/events-grid.php:132
+msgid "Custom Sort"
+msgstr ""
+
+#: widgets/events-grid.php:133 widgets/thumbnails-grid.php:265
+msgid "Descending"
+msgstr ""
+
+#: widgets/events-grid.php:134 widgets/thumbnails-grid.php:264
+msgid "Ascending"
+msgstr ""
+
+#: widgets/events-grid.php:199 widgets/events-grid.php:200
+#: widgets/portfolio-grid.php:183 widgets/portfolio-grid.php:184
+#: widgets/proofing-archive.php:171 widgets/proofing-archive.php:172
+msgid "Box Thumbnail Link"
+msgstr ""
+
+#: widgets/events-grid.php:202 widgets/portfolio-grid.php:186
+#: widgets/proofing-archive.php:174 widgets/works-carousel.php:189
+msgid "Direct Link"
+msgstr ""
+
+#: widgets/events-grid.php:203 widgets/image-carousel.php:223
+#: widgets/multi-slider.php:277 widgets/portfolio-grid.php:187
+#: widgets/proofing-archive.php:175 widgets/thumbnails-grid.php:293
+#: widgets/vertical-images.php:125
+msgid "Lightbox"
+msgstr ""
+
+#: widgets/events-grid.php:232 widgets/events-grid.php:233
+#: widgets/events-grid.php:236 widgets/portfolio-grid.php:234
+#: widgets/proofing-archive.php:208 widgets/proofing-grid.php:176
+msgid "Filterable"
+msgstr ""
+
+#: widgets/events-grid.php:235 widgets/portfolio-grid.php:233
+#: widgets/proofing-archive.php:207 widgets/proofing-grid.php:177
+msgid "No Filter"
+msgstr ""
+
+#: widgets/events-grid.php:246
+msgid "All items Text"
+msgstr ""
+
+#: widgets/events-grid.php:247 widgets/events-grid.php:248
+msgid "All items"
+msgstr ""
+
+#: widgets/events-grid.php:260
+msgid "Readmore Text"
+msgstr ""
+
+#: widgets/events-grid.php:261 widgets/events-grid.php:262
+msgid "Event Details"
+msgstr ""
+
+#: widgets/events-grid.php:286 widgets/events-grid.php:287
+msgid "Display date"
+msgstr ""
+
+#: widgets/events-grid.php:312 widgets/portfolio-grid.php:289
+#: widgets/proofing-archive.php:245 widgets/thumbnails-grid.php:233
+msgid "Display like/heart"
+msgstr ""
+
+#: widgets/events-grid.php:313 widgets/portfolio-grid.php:290
+#: widgets/proofing-archive.php:246 widgets/thumbnails-grid.php:234
+msgid "Displays like/heart"
+msgstr ""
+
+#: widgets/events-grid.php:543
+msgid "Category/Date Color"
+msgstr ""
+
+#: widgets/events-grid.php:555
+msgid "Category/Date Typography"
+msgstr ""
+
+#: widgets/events-grid.php:629 widgets/portfolio-grid.php:606
+#: widgets/proofing-archive.php:425 widgets/proofing-grid.php:363
+#: widgets/thumbnails-grid.php:537
+msgid "Filter Color"
+msgstr ""
+
+#: widgets/events-grid.php:641 widgets/proofing-grid.php:376
+#: widgets/thumbnails-grid.php:549
+msgid "Filter Line"
+msgstr ""
+
+#: widgets/events-grid.php:652 widgets/portfolio-grid.php:629
+#: widgets/proofing-archive.php:448 widgets/proofing-grid.php:387
+#: widgets/thumbnails-grid.php:560
+msgid "Filter Hover Color"
+msgstr ""
+
+#: widgets/events-grid.php:663 widgets/portfolio-grid.php:640
+#: widgets/proofing-archive.php:459 widgets/proofing-grid.php:398
+#: widgets/thumbnails-grid.php:571
+msgid "Filter Active Color"
+msgstr ""
+
+#: widgets/events-grid.php:678 widgets/portfolio-grid.php:655
+#: widgets/proofing-archive.php:474 widgets/proofing-grid.php:413
+#: widgets/thumbnails-grid.php:586
+msgid "Filter Typography"
+msgstr ""
+
+#: widgets/events-info.php:44 widgets/events-info.php:91
+msgid "Events Info"
+msgstr ""
+
+#: widgets/events-info.php:100 widgets/events-info.php:101
+msgid "Display When"
+msgstr ""
+
+#: widgets/events-info.php:128 widgets/events-info.php:129
+msgid "Display Time"
+msgstr ""
+
+#: widgets/events-info.php:142 widgets/events-info.php:493
+msgid "When Text"
+msgstr ""
+
+#: widgets/events-info.php:143 widgets/events-info.php:144
+msgid "When"
+msgstr ""
+
+#: widgets/events-info.php:152 widgets/events-info.php:189
+msgid "When Icon"
+msgstr ""
+
+#: widgets/events-info.php:164 widgets/events-info.php:165
+msgid "Display Where"
+msgstr ""
+
+#: widgets/events-info.php:179 widgets/events-info.php:498
+msgid "Where Text"
+msgstr ""
+
+#: widgets/events-info.php:180 widgets/events-info.php:181
+msgid "Where"
+msgstr ""
+
+#: widgets/events-info.php:201 widgets/events-info.php:202
+msgid "Display Cost"
+msgstr ""
+
+#: widgets/events-info.php:216 widgets/events-info.php:503
+msgid "Cost Text"
+msgstr ""
+
+#: widgets/events-info.php:217 widgets/events-info.php:218
+msgid "Cost"
+msgstr ""
+
+#: widgets/events-info.php:226
+msgid "Cose Icon"
+msgstr ""
+
+#: widgets/events-info.php:238 widgets/events-info.php:239
+msgid "Display Capacity"
+msgstr ""
+
+#: widgets/events-info.php:253
+msgid "Capacity Text"
+msgstr ""
+
+#: widgets/events-info.php:254 widgets/events-info.php:255
+msgid "Capacity"
+msgstr ""
+
+#: widgets/events-info.php:263
+msgid "Capacity Icon"
+msgstr ""
+
+#: widgets/events-info.php:275 widgets/events-info.php:276
+msgid "Display Remaining capacity"
+msgstr ""
+
+#: widgets/events-info.php:290
+msgid "Remaining capacity Text"
+msgstr ""
+
+#: widgets/events-info.php:291 widgets/events-info.php:292
+msgid "Remaining capacity"
+msgstr ""
+
+#: widgets/events-info.php:302 widgets/events-info.php:303
+msgid "Display Status"
+msgstr ""
+
+#: widgets/events-info.php:376
+msgid "Info Color"
+msgstr ""
+
+#: widgets/events-info.php:398
+msgid "Info Link Color"
+msgstr ""
+
+#: widgets/events-info.php:410
+msgid "Info Link Hover Color"
+msgstr ""
+
+#: widgets/events-info.php:422
+msgid "Event Status Background"
+msgstr ""
+
+#: widgets/events-info.php:434
+msgid "Event Status Text"
+msgstr ""
+
+#: widgets/events-swiper.php:50
+msgid "Events Swiper"
+msgstr ""
+
+#: widgets/events-swiper.php:128 widgets/swiper-slides.php:128
+msgid "Swiper Slideshow"
+msgstr ""
+
+#: widgets/events-swiper.php:164 widgets/image-carousel.php:210
+#: widgets/image-reel.php:163 widgets/multi-slider.php:236
+#: widgets/slideshow-carousel.php:211 widgets/swiper-slides.php:165
+#: widgets/testimonials.php:136 widgets/works-carousel.php:234
+msgid "Autoplay Interval"
+msgstr ""
+
+#: widgets/events-swiper.php:165 widgets/image-carousel.php:211
+#: widgets/image-reel.php:164 widgets/multi-slider.php:237
+#: widgets/slideshow-carousel.php:212 widgets/swiper-slides.php:166
+#: widgets/testimonials.php:137 widgets/works-carousel.php:235
+msgid "Autoplay Interval ( 5000 default)"
+msgstr ""
+
+#: widgets/events-swiper.php:172 widgets/google-map.php:182
+#: widgets/image-reel.php:187 widgets/image-reel.php:217
+#: widgets/image-reel.php:264 widgets/image-reel.php:296
+#: widgets/multi-slider.php:291 widgets/multi-slider.php:321
+#: widgets/multi-slider.php:368 widgets/multi-slider.php:400
+#: widgets/swiper-slides.php:187
+msgid "Height"
+msgstr ""
+
+#: widgets/events-swiper.php:199 widgets/image-carousel.php:334
+#: widgets/image-reel.php:374 widgets/multi-slider.php:666
+#: widgets/slideshow-carousel.php:344 widgets/swiper-slides.php:291
+#: widgets/works-carousel.php:367
+msgid "Arrow Color"
+msgstr ""
+
+#: widgets/events-swiper.php:297 widgets/image-reel.php:326
+#: widgets/multi-slider.php:618
+msgid "Background Color"
+msgstr ""
+
+#: widgets/flip-box.php:50
+msgid "Flip Box"
+msgstr ""
+
+#: widgets/flip-box.php:98 widgets/service-box.php:48
+#: widgets/service-box.php:111
+msgid "Service Box"
+msgstr ""
+
+#: widgets/flip-box.php:136 widgets/multi-slider.php:178
+msgid "Overlay Opacity"
+msgstr ""
+
+#: widgets/flip-box.php:157 widgets/flip-box.php:381
+msgid "Flip Box Title"
+msgstr ""
+
+#: widgets/flip-box.php:158 widgets/service-box.php:229
+msgid "This is the heading"
+msgstr ""
+
+#: widgets/flip-box.php:159 widgets/progress-bar.php:105
+#: widgets/section-heading.php:186 widgets/service-box.php:230
+msgid "Enter your title"
+msgstr ""
+
+#: widgets/flip-box.php:168 widgets/service-box.php:119
+#: widgets/worktype-albums.php:207
+msgid "Choose Icon"
+msgstr ""
+
+#: widgets/flip-box.php:196 widgets/flip-box.php:386
+msgid "Flip Box Content"
+msgstr ""
+
+#: widgets/flip-box.php:197 widgets/service-box.php:250
+msgid ""
+"Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras "
+"mattis consectetur purus sit amet fermentum."
+msgstr ""
+
+#: widgets/flip-box.php:198 widgets/service-box.php:251
+msgid "Enter your description"
+msgstr ""
+
+#: widgets/flip-box.php:209 widgets/pricing-services.php:186
+#: widgets/pricing-table.php:186 widgets/proofing-grid.php:242
+#: widgets/section-heading.php:266
+msgid "Button Link"
+msgstr ""
+
+#: widgets/flip-box.php:210 widgets/multi-slider.php:455
+#: widgets/pricing-services.php:187 widgets/pricing-table.php:187
+#: widgets/proofing-grid.php:245 widgets/scroll-indicator.php:115
+#: widgets/section-heading.php:268 widgets/service-box.php:263
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/flip-box.php:220 widgets/pricing-services.php:197
+#: widgets/pricing-table.php:197 widgets/proofing-grid.php:259
+#: widgets/section-heading.php:282
+msgid "Button"
+msgstr ""
+
+#: widgets/flip-box.php:221 widgets/pricing-services.php:198
+#: widgets/pricing-table.php:198 widgets/service-box.php:274
+msgid "Enter link text"
+msgstr ""
+
+#: widgets/flip-box.php:240 widgets/like-status.php:123
+#: widgets/service-box.php:293 widgets/share-page.php:208
+#: widgets/team-member.php:263
+msgid "Icon color"
+msgstr ""
+
+#: widgets/google-map.php:50 widgets/google-map.php:114
+msgid "Google Map"
+msgstr ""
+
+#: widgets/google-map.php:134
+msgid "Find Latitude & Longitude"
+msgstr ""
+
+#: widgets/google-map.php:144
+msgid "Latitude"
+msgstr ""
+
+#: widgets/google-map.php:154
+msgid "Longitude"
+msgstr ""
+
+#: widgets/google-map.php:165
+msgid "Zoom Level"
+msgstr ""
+
+#: widgets/google-map.php:199
+msgid "Map Type"
+msgstr ""
+
+#: widgets/google-map.php:202
+msgid "Road Map"
+msgstr ""
+
+#: widgets/google-map.php:203
+msgid "Satellite"
+msgstr ""
+
+#: widgets/google-map.php:204
+msgid "Hybrid"
+msgstr ""
+
+#: widgets/google-map.php:205
+msgid "Terrain"
+msgstr ""
+
+#: widgets/google-map.php:214
+msgid "Show Zoom Control"
+msgstr ""
+
+#: widgets/google-map.php:223 widgets/google-map.php:283
+msgid "Control Position"
+msgstr ""
+
+#: widgets/google-map.php:226 widgets/google-map.php:318
+msgid "Bottom Right (Default)"
+msgstr ""
+
+#: widgets/google-map.php:227 widgets/google-map.php:319
+msgid "Top Left"
+msgstr ""
+
+#: widgets/google-map.php:228 widgets/google-map.php:287
+#: widgets/google-map.php:320
+msgid "Top Center"
+msgstr ""
+
+#: widgets/google-map.php:229 widgets/google-map.php:288
+#: widgets/google-map.php:321
+msgid "Top Right"
+msgstr ""
+
+#: widgets/google-map.php:230 widgets/google-map.php:289
+#: widgets/google-map.php:322
+msgid "Left Center"
+msgstr ""
+
+#: widgets/google-map.php:231 widgets/google-map.php:290
+#: widgets/google-map.php:323
+msgid "Right Center"
+msgstr ""
+
+#: widgets/google-map.php:232 widgets/google-map.php:291
+#: widgets/google-map.php:324
+msgid "Bottom Left"
+msgstr ""
+
+#: widgets/google-map.php:233 widgets/google-map.php:292
+#: widgets/google-map.php:325
+msgid "Bottom Center"
+msgstr ""
+
+#: widgets/google-map.php:234 widgets/google-map.php:293
+#: widgets/google-map.php:326
+msgid "Bottom Right"
+msgstr ""
+
+#: widgets/google-map.php:247
+msgid "Show Default UI"
+msgstr ""
+
+#: widgets/google-map.php:256
+msgid "Map Type Control"
+msgstr ""
+
+#: widgets/google-map.php:265
+msgid "Control Styles"
+msgstr ""
+
+#: widgets/google-map.php:269
+msgid "Horizontal Bar"
+msgstr ""
+
+#: widgets/google-map.php:270
+msgid "Dropdown Menu"
+msgstr ""
+
+#: widgets/google-map.php:286
+msgid "Top Left (Default)"
+msgstr ""
+
+#: widgets/google-map.php:306
+msgid "Show Streetview Control"
+msgstr ""
+
+#: widgets/google-map.php:315
+msgid "Streetview Position"
+msgstr ""
+
+#: widgets/google-map.php:339
+msgid "Custom Map Style"
+msgstr ""
+
+#: widgets/google-map.php:341
+msgid ""
+"Get new map style codes from: <br/><a href=\"https://mapstyle.withgoogle.com/"
+"\" target=\"_blank\">Google Map Styling Wizard</a> <br/><a href=\"https://"
+"snazzymaps.com/explore\" target=\"_blank\">Snazzy Maps</a><br/>Copy Paste "
+"style code to display."
+msgstr ""
+
+#: widgets/google-map.php:351 widgets/post-heading.php:145
+#: widgets/progress-bar.php:137 widgets/section-heading.php:175
+#: widgets/service-box.php:129 widgets/vertical-images.php:166
+msgid "View"
+msgstr ""
+
+#: widgets/google-map.php:370
+msgid "Marker Color"
+msgstr ""
+
+#: widgets/image-carousel.php:50 widgets/image-carousel.php:128
+msgid "Image Carousel"
+msgstr ""
+
+#: widgets/image-carousel.php:149 widgets/image-carousel.php:150
+#: widgets/works-carousel.php:136 widgets/works-carousel.php:137
+msgid "Carousel image type"
+msgstr ""
+
+#: widgets/image-carousel.php:154 widgets/slideshow-carousel.php:170
+msgid "Full"
+msgstr ""
+
+#: widgets/image-carousel.php:180 widgets/image-carousel.php:181
+#: widgets/slideshow-carousel.php:181 widgets/slideshow-carousel.php:182
+#: widgets/works-carousel.php:204 widgets/works-carousel.php:205
+msgid "Lazy Load"
+msgstr ""
+
+#: widgets/image-carousel.php:195 widgets/image-carousel.php:196
+#: widgets/slideshow-carousel.php:196 widgets/slideshow-carousel.php:197
+#: widgets/testimonials.php:121 widgets/testimonials.php:122
+#: widgets/works-carousel.php:219 widgets/works-carousel.php:220
+msgid "Autoplay slideshow"
+msgstr ""
+
+#: widgets/image-carousel.php:219 widgets/image-carousel.php:220
+msgid "Link method"
+msgstr ""
+
+#: widgets/image-carousel.php:224
+msgid "Link using image data"
+msgstr ""
+
+#: widgets/image-carousel.php:234 widgets/slideshow-carousel.php:244
+#: widgets/works-carousel.php:253
+msgid "Dispay title"
+msgstr ""
+
+#: widgets/image-carousel.php:235 widgets/slideshow-carousel.php:245
+msgid "Display thumbnails"
+msgstr ""
+
+#: widgets/image-carousel.php:257 widgets/slideshow-carousel.php:267
+#: widgets/swiper-slides.php:214 widgets/works-carousel.php:290
+msgid "Pagination Dots"
+msgstr ""
+
+#: widgets/image-carousel.php:271 widgets/image-reel.php:342
+#: widgets/multi-slider.php:634 widgets/slideshow-carousel.php:281
+#: widgets/swiper-slides.php:228 widgets/works-carousel.php:304
+msgid "Pagination Color"
+msgstr ""
+
+#: widgets/image-carousel.php:287 widgets/image-reel.php:358
+#: widgets/multi-slider.php:650 widgets/slideshow-carousel.php:297
+#: widgets/swiper-slides.php:244 widgets/works-carousel.php:320
+msgid "Pagination Active Color"
+msgstr ""
+
+#: widgets/image-carousel.php:303 widgets/slideshow-carousel.php:313
+#: widgets/swiper-slides.php:260 widgets/works-carousel.php:336
+msgid "Arrow"
+msgstr ""
+
+#: widgets/image-carousel.php:307 widgets/proofing-client-info.php:112
+#: widgets/service-box.php:150 widgets/slideshow-carousel.php:317
+#: widgets/swiper-slides.php:264 widgets/team-member.php:130
+#: widgets/testimonials.php:108 widgets/works-carousel.php:340
+msgid "Circle"
+msgstr ""
+
+#: widgets/image-carousel.php:319 widgets/slideshow-carousel.php:329
+#: widgets/swiper-slides.php:276 widgets/works-carousel.php:352
+msgid "Arrow Background Color"
+msgstr ""
+
+#: widgets/image-carousel.php:376 widgets/slideshow-carousel.php:386
+#: widgets/swiper-slides.php:333
+msgid "Title Background Color"
+msgstr ""
+
+#: widgets/image-drops.php:48 widgets/image-drops.php:96
+msgid "Image Drops"
+msgstr ""
+
+#: widgets/image-drops.php:157
+msgid "Border"
+msgstr ""
+
+#: widgets/image-drops.php:174
+msgid "Border Color"
+msgstr ""
+
+#: widgets/image-reel.php:50 widgets/image-reel.php:128
+msgid "Image Reel"
+msgstr ""
+
+#: widgets/image-reel.php:147 widgets/multi-slider.php:220
+msgid "Autoplay Active"
+msgstr ""
+
+#: widgets/image-reel.php:172 widgets/multi-slider.php:262
+msgid "Pagination"
+msgstr ""
+
+#: widgets/image-reel.php:188 widgets/multi-slider.php:292
+msgid "Height style"
+msgstr ""
+
+#: widgets/image-reel.php:191 widgets/multi-slider.php:295
+msgid "Full height"
+msgstr ""
+
+#: widgets/image-reel.php:192 widgets/multi-slider.php:296
+msgid "Custom height"
+msgstr ""
+
+#: widgets/image-reel.php:203 widgets/multi-slider.php:307
+msgid "Offset height for desktop menu"
+msgstr ""
+
+#: widgets/image-reel.php:250 widgets/multi-slider.php:354
+msgid "Offset height for Mobile Screen"
+msgstr ""
+
+#: widgets/image-reel.php:390
+msgid "Arrow Background"
+msgstr ""
+
+#: widgets/inline-editing.php:37
+msgid "Inline Editing"
+msgstr ""
+
+#: widgets/inline-editing.php:84 widgets/inline-editing.php:109
+#: widgets/inline-editing.php:111
+msgid "Content"
+msgstr ""
+
+#: widgets/like-status.php:44
+msgid "Like Status"
+msgstr ""
+
+#: widgets/like-status.php:91
+msgid "Like Status Page"
+msgstr ""
+
+#: widgets/like-status.php:100
+msgid "Display Large"
+msgstr ""
+
+#: widgets/like-status.php:138 widgets/share-page.php:224
+msgid "Hover icon color"
+msgstr ""
+
+#: widgets/like-status.php:154
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/like-status.php:171
+msgid "Count color"
+msgstr ""
+
+#: widgets/like-status.php:196
+msgid "Count Top"
+msgstr ""
+
+#: widgets/like-status.php:213
+msgid "Count Right"
+msgstr ""
+
+#: widgets/multi-slider.php:50 widgets/multi-slider.php:128
+msgid "Multi Slider"
+msgstr ""
+
+#: widgets/multi-slider.php:163
+msgid "Slideshow Image"
+msgstr ""
+
+#: widgets/multi-slider.php:199
+msgid "Overlay Hover Opacity"
+msgstr ""
+
+#: widgets/multi-slider.php:246 widgets/multi-slider.php:247
+msgid "Slide style"
+msgstr ""
+
+#: widgets/multi-slider.php:249
+msgid "Slide"
+msgstr ""
+
+#: widgets/multi-slider.php:266 widgets/pricing-table.php:568
+msgid "Fraction"
+msgstr ""
+
+#: widgets/multi-slider.php:421 widgets/scroll-indicator.php:44
+#: widgets/scroll-indicator.php:91
+msgid "Scroll Indicator"
+msgstr ""
+
+#: widgets/multi-slider.php:422 widgets/thumbnails-grid.php:126
+#: widgets/thumbnails-grid.php:127
+msgid "Style of Thumbnails"
+msgstr ""
+
+#: widgets/multi-slider.php:435
+msgid "Scroll indicator align"
+msgstr ""
+
+#: widgets/multi-slider.php:454 widgets/scroll-indicator.php:114
+#: widgets/service-box.php:262
+msgid "Link to"
+msgstr ""
+
+#: widgets/multi-slider.php:468
+msgid "Slideshow Content"
+msgstr ""
+
+#: widgets/multi-slider.php:475
+msgid "Slideshow Text Align"
+msgstr ""
+
+#: widgets/multi-slider.php:491
+msgid "Content Left Alignment"
+msgstr ""
+
+#: widgets/multi-slider.php:514
+msgid "Content Bottom Alignment"
+msgstr ""
+
+#: widgets/multi-slider.php:534
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/multi-slider.php:548
+msgid "Description width"
+msgstr ""
+
+#: widgets/multi-slider.php:569
+msgid "Display Title"
+msgstr ""
+
+#: widgets/multi-slider.php:582
+msgid "Display Description"
+msgstr ""
+
+#: widgets/multi-slider.php:595
+msgid "Display Button"
+msgstr ""
+
+#: widgets/multi-slider.php:769 widgets/scroll-indicator.php:134
+msgid "Indicator Color"
+msgstr ""
+
+#: widgets/portfolio-grid.php:41
+msgid "Portfolio Grid"
+msgstr ""
+
+#: widgets/portfolio-grid.php:104
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: widgets/portfolio-grid.php:129 widgets/works-carousel.php:166
+#: widgets/worktype-albums.php:128
+msgid "Choose Work types to list"
+msgstr ""
+
+#: widgets/portfolio-grid.php:141 widgets/portfolio-grid.php:142
+#: widgets/proofing-archive.php:141 widgets/proofing-archive.php:142
+#: widgets/worktype-albums.php:140 widgets/worktype-albums.php:141
+msgid "Style of Portfolio"
+msgstr ""
+
+#: widgets/portfolio-grid.php:200 widgets/portfolio-grid.php:201
+msgid "Open Links in New Tab"
+msgstr ""
+
+#: widgets/portfolio-grid.php:204
+msgid "New Tab"
+msgstr ""
+
+#: widgets/portfolio-grid.php:230 widgets/portfolio-grid.php:231
+#: widgets/proofing-archive.php:204 widgets/proofing-archive.php:205
+msgid "Type of Portfolio list"
+msgstr ""
+
+#: widgets/portfolio-grid.php:276 widgets/portfolio-grid.php:277
+#: widgets/proofing-archive.php:232 widgets/proofing-archive.php:233
+msgid "Display Worktypes"
+msgstr ""
+
+#: widgets/portfolio-grid.php:520
+msgid "Worktype Color"
+msgstr ""
+
+#: widgets/portfolio-grid.php:532
+msgid "Worktype Typography"
+msgstr ""
+
+#: widgets/portfolio-grid.php:618 widgets/proofing-archive.php:437
+msgid "Filter Seperator"
+msgstr ""
+
+#: widgets/post-heading.php:44
+msgid "Post Heading"
+msgstr ""
+
+#: widgets/post-heading.php:91 widgets/section-heading.php:44
+#: widgets/section-heading.php:91
+msgid "Section Heading"
+msgstr ""
+
+#: widgets/post-heading.php:98 widgets/section-heading.php:113
+msgid "Section Style"
+msgstr ""
+
+#: widgets/post-heading.php:103
+msgid "Date - Title"
+msgstr ""
+
+#: widgets/post-heading.php:104
+msgid "Title - Date"
+msgstr ""
+
+#: widgets/post-heading.php:130 widgets/section-heading.php:160
+#: widgets/team-member.php:185
+msgid "Justified"
+msgstr ""
+
+#: widgets/post-heading.php:154 widgets/section-heading.php:232
+msgid "Title Width"
+msgstr ""
+
+#: widgets/post-heading.php:214 widgets/section-heading.php:316
+msgid "Subtitle Color"
+msgstr ""
+
+#: widgets/pricing-services.php:44 widgets/pricing-services.php:91
+msgid "Pricing Services"
+msgstr ""
+
+#: widgets/pricing-services.php:100 widgets/pricing-services.php:101
+#: widgets/pricing-table.php:100 widgets/pricing-table.php:101
+msgid "Standard"
+msgstr ""
+
+#: widgets/pricing-services.php:110 widgets/pricing-table.php:110
+msgid "Featured"
+msgstr ""
+
+#: widgets/pricing-services.php:125 widgets/pricing-table.php:125
+msgid "Symbol"
+msgstr ""
+
+#: widgets/pricing-services.php:126 widgets/pricing-services.php:127
+#: widgets/pricing-table.php:126 widgets/pricing-table.php:127
+msgid "$"
+msgstr ""
+
+#: widgets/pricing-services.php:137 widgets/pricing-table.php:137
+msgid "Symbol align Right"
+msgstr ""
+
+#: widgets/pricing-services.php:148 widgets/pricing-table.php:148
+msgid "Price ( Main Unit )"
+msgstr ""
+
+#: widgets/pricing-services.php:161 widgets/pricing-table.php:161
+msgid "Fraction ( Cents )"
+msgstr ""
+
+#: widgets/pricing-services.php:174 widgets/pricing-services.php:508
+#: widgets/pricing-table.php:174 widgets/pricing-table.php:573
+msgid "Duration"
+msgstr ""
+
+#: widgets/pricing-services.php:175 widgets/pricing-services.php:176
+#: widgets/pricing-table.php:175 widgets/pricing-table.php:176
+msgid "Monthly"
+msgstr ""
+
+#: widgets/pricing-services.php:207 widgets/pricing-services.php:518
+msgid "Services"
+msgstr ""
+
+#: widgets/pricing-services.php:209
+msgid "Enter your services"
+msgstr ""
+
+#: widgets/pricing-services.php:210
+msgid "Add services text"
+msgstr ""
+
+#: widgets/pricing-services.php:228 widgets/pricing-table.php:257
+msgid "Header Background Color"
+msgstr ""
+
+#: widgets/pricing-services.php:244 widgets/pricing-table.php:273
+msgid "Featured Border Color"
+msgstr ""
+
+#: widgets/pricing-services.php:286 widgets/pricing-table.php:315
+msgid "Pricing Color"
+msgstr ""
+
+#: widgets/pricing-services.php:312 widgets/pricing-table.php:341
+msgid "Currency Symbol and Fraction Adjuster"
+msgstr ""
+
+#: widgets/pricing-services.php:330 widgets/pricing-table.php:359
+msgid "Duration Color"
+msgstr ""
+
+#: widgets/pricing-services.php:356 widgets/pricing-table.php:385
+msgid "Content Background Color"
+msgstr ""
+
+#: widgets/pricing-services.php:493
+msgid "Price Symbol"
+msgstr ""
+
+#: widgets/pricing-services.php:503
+msgid "Faction"
+msgstr ""
+
+#: widgets/pricing-table.php:44 widgets/pricing-table.php:91
+msgid "Pricing Table"
+msgstr ""
+
+#: widgets/pricing-table.php:208
+msgid "Available"
+msgstr ""
+
+#: widgets/pricing-table.php:220 widgets/pricing-table.php:221
+#: widgets/pricing-table.php:222
+msgid "Row Text"
+msgstr ""
+
+#: widgets/pricing-table.php:230
+msgid "Row"
+msgstr ""
+
+#: widgets/pricing-table.php:419
+msgid "Seperator Color"
+msgstr ""
+
+#: widgets/pricing-table.php:436
+msgid "Symbol Color"
+msgstr ""
+
+#: widgets/pricing-table.php:558
+msgid "Pricing Symbol"
+msgstr ""
+
+#: widgets/progress-bar.php:48 widgets/progress-bar.php:96
+#: widgets/progress-bar.php:148
+msgid "Progress Bar"
+msgstr ""
+
+#: widgets/progress-bar.php:106
+msgid "My Skill"
+msgstr ""
+
+#: widgets/progress-bar.php:114
+msgid "Percentage"
+msgstr ""
+
+#: widgets/progress-bar.php:125
+msgid "Display Percentage"
+msgstr ""
+
+#: widgets/progress-bar.php:156
+msgid "Progress Color"
+msgstr ""
+
+#: widgets/progress-bar.php:171
+msgid "Progress Bar Color"
+msgstr ""
+
+#: widgets/progress-bar.php:184
+msgid "Title Style"
+msgstr ""
+
+#: widgets/progress-bar.php:192 widgets/split-headlines.php:119
+msgid "Text Color"
+msgstr ""
+
+#: widgets/progress-bar.php:216
+msgid "Skill Percent Color"
+msgstr ""
+
+#: widgets/proofing-archive.php:41 widgets/proofing-archive.php:104
+msgid "Proofing Archive"
+msgstr ""
+
+#: widgets/proofing-archive.php:129
+msgid "Choose Proofing category to list"
+msgstr ""
+
+#: widgets/proofing-archive.php:339
+msgid "Proofing Category Color"
+msgstr ""
+
+#: widgets/proofing-archive.php:351
+msgid "Proofing Category Typography"
+msgstr ""
+
+#: widgets/proofing-client-info.php:41 widgets/proofing-client-info.php:87
+msgid "Proofing Info"
+msgstr ""
+
+#: widgets/proofing-client-info.php:97
+msgid "Centered"
+msgstr ""
+
+#: widgets/proofing-client-info.php:108 widgets/service-box.php:147
+#: widgets/team-member.php:126 widgets/testimonials.php:105
+msgid "Shape"
+msgstr ""
+
+#: widgets/proofing-client-info.php:124
+msgid "Client Image Size"
+msgstr ""
+
+#: widgets/proofing-client-info.php:168
+msgid "Client Description"
+msgstr ""
+
+#: widgets/proofing-client-info.php:181
+msgid "Time"
+msgstr ""
+
+#: widgets/proofing-client-info.php:251
+msgid "Client Name Typography"
+msgstr ""
+
+#: widgets/proofing-client-info.php:260
+msgid "Client Description Color"
+msgstr ""
+
+#: widgets/proofing-client-info.php:274
+msgid "Client Description Typography"
+msgstr ""
+
+#: widgets/proofing-client-info.php:300
+msgid "Client Details Color"
+msgstr ""
+
+#: widgets/proofing-client-info.php:312
+msgid "Client Details Typography"
+msgstr ""
+
+#: widgets/proofing-client-info.php:321
+msgid "Client icon Color"
+msgstr ""
+
+#: widgets/proofing-client-info.php:333
+msgid "Client icon Typography"
+msgstr ""
+
+#: widgets/proofing-client-info.php:342
+msgid "Info Border Size"
+msgstr ""
+
+#: widgets/proofing-client-info.php:359
+msgid "Info Border Color"
+msgstr ""
+
+#: widgets/proofing-grid.php:43
+msgid "Proofing Grid"
+msgstr ""
+
+#: widgets/proofing-grid.php:106
+msgid "Proofing Gallery"
+msgstr ""
+
+#: widgets/proofing-grid.php:113
+msgid "Proofing Status"
+msgstr ""
+
+#: widgets/proofing-grid.php:117
+msgid "Lock"
+msgstr ""
+
+#: widgets/proofing-grid.php:142 widgets/proofing-grid.php:143
+msgid "Style of Proofing"
+msgstr ""
+
+#: widgets/proofing-grid.php:173 widgets/proofing-grid.php:174
+msgid "Proofing listing"
+msgstr ""
+
+#: widgets/proofing-grid.php:203
+msgid "Download in Thumbnail"
+msgstr ""
+
+#: widgets/proofing-grid.php:220
+msgid "Image ID"
+msgstr ""
+
+#: widgets/proofing-grid.php:221
+msgid "File Name"
+msgstr ""
+
+#: widgets/proofing-grid.php:222
+msgid "Image Title"
+msgstr ""
+
+#: widgets/proofing-grid.php:232
+msgid "Notice"
+msgstr ""
+
+#: widgets/proofing-grid.php:234
+msgid "Enter Notice text for client"
+msgstr ""
+
+#: widgets/proofing-grid.php:243
+msgid "Can be used to provide zipped link of gallery"
+msgstr ""
+
+#: widgets/proofing-grid.php:258
+msgid "Enter button text"
+msgstr ""
+
+#: widgets/proofing-grid.php:421
+msgid "Selected Count Typography"
+msgstr ""
+
+#: widgets/proofing-grid.php:430
+msgid "Notice Color"
+msgstr ""
+
+#: widgets/proofing-grid.php:444
+msgid "Notice Background"
+msgstr ""
+
+#: widgets/proofing-grid.php:455
+msgid "Notice Typography"
+msgstr ""
+
+#: widgets/proofing-grid.php:531
+msgid "Enter Notice text"
+msgstr ""
+
+#: widgets/scroll-indicator.php:98
+msgid "Scroll Indicate"
+msgstr ""
+
+#: widgets/section-heading.php:98
+msgid "Section Size"
+msgstr ""
+
+#: widgets/section-heading.php:103
+msgid "Large"
+msgstr ""
+
+#: widgets/section-heading.php:118
+msgid "Sub Title - Title"
+msgstr ""
+
+#: widgets/section-heading.php:119
+msgid "Title - Sub Title"
+msgstr ""
+
+#: widgets/section-heading.php:128
+msgid "Subtitle Style"
+msgstr ""
+
+#: widgets/section-heading.php:133
+msgid "Sidelines"
+msgstr ""
+
+#: widgets/section-heading.php:187
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: widgets/section-heading.php:194
+msgid "Tag"
+msgstr ""
+
+#: widgets/section-heading.php:212 widgets/section-heading.php:551
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/section-heading.php:214
+msgid "Enter your subtitle"
+msgstr ""
+
+#: widgets/section-heading.php:215
+msgid "Add Your Subheading Text Here"
+msgstr ""
+
+#: widgets/section-heading.php:224 widgets/split-headlines.php:100
+msgid "Enter your Description"
+msgstr ""
+
+#: widgets/section-heading.php:225 widgets/split-headlines.php:101
+msgid "Add Your description text"
+msgstr ""
+
+#: widgets/section-heading.php:333
+msgid "Subtitle Line Color"
+msgstr ""
+
+#: widgets/section-heading.php:422
+msgid "Subtitle Typography"
+msgstr ""
+
+#: widgets/section-heading.php:450
+msgid "Space After Title"
+msgstr ""
+
+#: widgets/section-heading.php:468
+msgid "Space After Subtitle"
+msgstr ""
+
+#: widgets/section-heading.php:486
+msgid "Space After Description"
+msgstr ""
+
+#: widgets/service-box.php:133
+msgid "Stacked"
+msgstr ""
+
+#: widgets/service-box.php:134
+msgid "Framed"
+msgstr ""
+
+#: widgets/service-box.php:184
+msgid "Space"
+msgstr ""
+
+#: widgets/service-box.php:201
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/service-box.php:228 widgets/service-box.php:535
+msgid "Service Title"
+msgstr ""
+
+#: widgets/service-box.php:239
+msgid "Count to Number"
+msgstr ""
+
+#: widgets/service-box.php:249 widgets/service-box.php:540
+msgid "Service Content"
+msgstr ""
+
+#: widgets/service-box.php:272 widgets/service-box.php:273
+#: widgets/service-box.php:545
+msgid "Link Text"
+msgstr ""
+
+#: widgets/service-box.php:309
+msgid "Icon background color"
+msgstr ""
+
+#: widgets/service-box.php:328
+msgid "Icon border color"
+msgstr ""
+
+#: widgets/service-box.php:347
+msgid "Rotate"
+msgstr ""
+
+#: widgets/service-box.php:362
+msgid "Icon Padding"
+msgstr ""
+
+#: widgets/service-box.php:382 widgets/testimonials.php:261
+msgid "Border Width"
+msgstr ""
+
+#: widgets/service-box.php:423
+msgid "Count Color"
+msgstr ""
+
+#: widgets/service-box.php:439
+msgid "Count Typography"
+msgstr ""
+
+#: widgets/service-box.php:462
+msgid "Read More Color"
+msgstr ""
+
+#: widgets/share-page.php:44 widgets/share-page.php:91
+msgid "Share Page"
+msgstr ""
+
+#: widgets/share-page.php:100
+msgid "Share text"
+msgstr ""
+
+#: widgets/share-page.php:101
+msgid "Share text displayed on hover"
+msgstr ""
+
+#: widgets/share-page.php:109
+msgid "Facebook"
+msgstr ""
+
+#: widgets/share-page.php:120
+msgid "Twitter"
+msgstr ""
+
+#: widgets/share-page.php:131
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/share-page.php:142
+msgid "Googleplus"
+msgstr ""
+
+#: widgets/share-page.php:153
+msgid "Reddit"
+msgstr ""
+
+#: widgets/share-page.php:164
+msgid "Tumblr"
+msgstr ""
+
+#: widgets/share-page.php:175
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/share-page.php:186
+msgid "Email"
+msgstr ""
+
+#: widgets/share-page.php:239
+msgid "Hover icon background colors"
+msgstr ""
+
+#: widgets/share-page.php:341
+msgid "Share"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:50 widgets/slideshow-carousel.php:128
+msgid "Slideshow Carousel"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:150 widgets/slideshow-carousel.php:151
+msgid "Slideshow type"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:153
+msgid "Slideshow"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:154
+msgid "2D Center Carousel"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:155
+msgid "3D Center Carousel"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:165 widgets/slideshow-carousel.php:166
+msgid "Slideshow image type"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:221 widgets/works-carousel.php:244
+msgid "Slide Transition"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:222 widgets/works-carousel.php:245
+msgid "Slide Transition ( 1000 default)"
+msgstr ""
+
+#: widgets/slideshow-carousel.php:230 widgets/slideshow-carousel.php:231
+#: widgets/swiper-slides.php:174 widgets/swiper-slides.php:175
+msgid "Lightbox Activate"
+msgstr ""
+
+#: widgets/split-headlines.php:44 widgets/split-headlines.php:91
+msgid "Split Headlines"
+msgstr ""
+
+#: widgets/swiper-slides.php:50
+msgid "Swiper Slides"
+msgstr ""
+
+#: widgets/team-member.php:50 widgets/team-member.php:98
+msgid "Team Member"
+msgstr ""
+
+#: widgets/team-member.php:146 widgets/testimonials.php:149
+msgid "Staff title"
+msgstr ""
+
+#: widgets/team-member.php:154 widgets/testimonials.php:157
+msgid "Staff name"
+msgstr ""
+
+#: widgets/team-member.php:162 widgets/team-member.php:419
+msgid "Staff Description"
+msgstr ""
+
+#: widgets/team-member.php:199 widgets/team-member.php:200
+msgid "Display social icons"
+msgstr ""
+
+#: widgets/team-member.php:214
+msgid "Icon"
+msgstr ""
+
+#: widgets/team-member.php:237
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/team-member.php:279
+msgid "Icon hover color"
+msgstr ""
+
+#: widgets/team-member.php:295
+msgid "Icon hover background color"
+msgstr ""
+
+#: widgets/team-member.php:409
+msgid "Staff Title"
+msgstr ""
+
+#: widgets/team-member.php:414
+msgid "Staff Name"
+msgstr ""
+
+#: widgets/testimonials.php:50 widgets/testimonials.php:98
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/testimonials.php:165
+msgid "Company name"
+msgstr ""
+
+#: widgets/testimonials.php:200
+msgid "Repeater List"
+msgstr ""
+
+#: widgets/testimonials.php:205
+msgid "Title #1"
+msgstr ""
+
+#: widgets/testimonials.php:206
+msgid "Jane Doe"
+msgstr ""
+
+#: widgets/testimonials.php:228
+msgid "Image Padding"
+msgstr ""
+
+#: widgets/testimonials.php:245
+msgid "Border color"
+msgstr ""
+
+#: widgets/testimonials.php:288
+msgid "Quote Typography"
+msgstr ""
+
+#: widgets/testimonials.php:298
+msgid "Company Info Color"
+msgstr ""
+
+#: widgets/testimonials.php:314
+msgid "Company Info Typography"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:41
+msgid "Thumbnails Grid"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:105
+msgid "Image Gallery"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:186
+msgid "Grid Columns"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:187
+msgid "No. of Grid Columns"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:202 widgets/thumbnails-grid.php:203
+msgid "Image Type"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:247
+msgid "Filter"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:248
+msgid "Filter using image tags."
+msgstr ""
+
+#: widgets/thumbnails-grid.php:251
+msgid "Filter with Tags"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:260
+msgid "Filter Sort"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:261
+msgid "Filter Sort order"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:278 widgets/thumbnails-grid.php:279
+msgid "Filter tag for all filters"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:290
+msgid "Link Type"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:291
+msgid ""
+"Link Type. Linked method uses image link field in Media manager image "
+"section."
+msgstr ""
+
+#: widgets/thumbnails-grid.php:294
+msgid "Downloadable"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:295
+msgid "Link using Image link data"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:296
+msgid "Link using image data purchase link"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:306
+msgid "Dispay image title"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:307
+msgid "Display image title"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:319 widgets/thumbnails-grid.php:320
+msgid "Display image description"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:511 widgets/worktype-albums.php:362
+msgid "Icon Border Color"
+msgstr ""
+
+#: widgets/thumbnails-grid.php:640
+msgid "Filter All text"
+msgstr ""
+
+#: widgets/vertical-images.php:50 widgets/vertical-images.php:97
+msgid "Vertical Images"
+msgstr ""
+
+#: widgets/vertical-images.php:139 widgets/vertical-images.php:140
+msgid "Image title"
+msgstr ""
+
+#: widgets/vertical-images.php:153 widgets/vertical-images.php:154
+msgid "Image description"
+msgstr ""
+
+#: widgets/vertical-images.php:228
+msgid "Space between"
+msgstr ""
+
+#: widgets/works-carousel.php:50 widgets/works-carousel.php:128
+msgid "Works Carousel"
+msgstr ""
+
+#: widgets/works-carousel.php:190
+msgid "Direct link to portfolio items"
+msgstr ""
+
+#: widgets/works-carousel.php:267
+msgid "Dispay category"
+msgstr ""
+
+#: widgets/works-carousel.php:268
+msgid "Display category"
+msgstr ""
+
+#: widgets/worktype-albums.php:41 widgets/worktype-albums.php:104
+msgid "Worktype Albums"
+msgstr ""
+
+#: widgets/worktype-albums.php:187 widgets/worktype-albums.php:430
+msgid "Item text singular referrer"
+msgstr ""
+
+#: widgets/worktype-albums.php:189 widgets/worktype-albums.php:190
+msgid "Item"
+msgstr ""
+
+#: widgets/worktype-albums.php:197 widgets/worktype-albums.php:435
+msgid "Item text plural referrer"
+msgstr ""
+
+#: widgets/worktype-albums.php:199 widgets/worktype-albums.php:200
+msgid "Items"
+msgstr ""
+
+#: widgets/worktype-albums.php:218 widgets/worktype-albums.php:219
+msgid "Item Count"
+msgstr ""
+
+#: widgets/worktype-albums.php:375
+msgid "Icon Hover background Color"
+msgstr ""
+
+#: wpml/wpml-translation-classes.php:41
+msgid "Company"
+msgstr ""

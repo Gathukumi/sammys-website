@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Spektra Dark were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/mywebsite
+Data file = /opt/lampp/htdocs/mywebsite/wp-content/plugins/imaginem-blocks-ii/demo-import/demo-data/spektra-dark/spektra-dark.xml
+Widget file = /opt/lampp/htdocs/mywebsite/wp-content/plugins/imaginem-blocks-ii/demo-import/demo-data/spektra-dark/spektra-dark.json
+Customizer file = /opt/lampp/htdocs/mywebsite/wp-content/uploads/2023/10/demo-customizer-import-file_2023-10-22__15-14-38.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+
+Menu Social : 
+
+Blacksilver Social Widget - No Title - Imported
+
+Default Events Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Mobile Social : 
+
+Blacksilver Social Widget - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
